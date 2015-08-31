@@ -6,4 +6,4 @@
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-
+* Fair Play é louvável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário
