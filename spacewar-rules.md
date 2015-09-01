@@ -5,5 +5,6 @@
 * Está desclassificado quem acionar a velocidade de dobra intergaláctica.
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
-* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-
+* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.*
+* Não é permitido usar mirar thermal com autoaim.
+* Não é permitido ativar a mira automática.
