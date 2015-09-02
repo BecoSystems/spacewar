@@ -8,3 +8,6 @@
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 * Phaser não pode ser apontado para o núcleo de força da nave.
 * Sondas de Reconhecimento podem ser usadas livremente.
+* Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
+
+
