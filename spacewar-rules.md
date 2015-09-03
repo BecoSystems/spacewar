@@ -6,4 +6,5 @@
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-
+* Numa partida,os jogadores terão direito a recaregar suas aramas 2 vezes a cada novo oponente.
+* Cada jogador começa uma partida com um ataque especial, para conseguir obter mais terá de derrotar pelo menos 2 oponentes diferentes numa mesma partida.
