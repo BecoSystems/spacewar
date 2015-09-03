@@ -11,7 +11,11 @@
 * Não é permitido ativar a mira automática.
 =======
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
+<<<<<<< HEAD
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 * O ataque com ondas giratórias vale 4 pontos
 
 >>>>>>> upstream/master
+=======
+* Não é permitido disparos de mísseis com mira thermal telegiado com autoaim, sendo permintido apenas a mira manual do piloto.
+>>>>>>> release
