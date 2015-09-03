@@ -6,6 +6,8 @@
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
+* Phaser não pode ser apontado para o núcleo de força da nave.
+* Sondas de Reconhecimento podem ser usadas livremente.
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
-* O ataque com ondas giratórias vale 4 pontos
+
 
