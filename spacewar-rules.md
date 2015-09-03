@@ -6,4 +6,5 @@
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-
+Está desclassificado quem não iniciar com a luz branca da paz (LBP).
+O adversario não poderá usar cheats ou qualquer forma de modificação maliciosa ao jogo.
