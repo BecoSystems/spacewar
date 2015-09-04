@@ -8,4 +8,4 @@
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 * O ataque com ondas giratórias vale 4 pontos
-
+* Após a soma de 10 pontos, você pode convocar uma tropa estelar.
