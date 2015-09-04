@@ -5,5 +5,8 @@
 * Está desclassificado quem acionar a velocidade de dobra intergaláctica.
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
-* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
+* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.D
 * Munições limitadas, podendo recarregar a cada 10 segundos.
+=======
+* Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
+* O ataque com ondas giratórias vale 4 pontosr
