@@ -8,4 +8,4 @@
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 * O ataque com ondas giratórias vale 4 pontos
-* Não é permitido o uso de criptografias, uma vez que sempre estarão fadadas a serem quebradas só resultam em perda de tempo em uma Spacewar.
+* Não é permitido disparos de mísseis thermal teleguiado com aim assist, sendo permitido apenas permitido uso manual da mira pelo piloto.
