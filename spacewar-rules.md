@@ -9,9 +9,13 @@
 <<<<<<< HEAD
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 * O ataque com ondas giratórias vale 4 pontos
+<<<<<<< HEAD
 * Fair Play é lovável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário 
 >>>>>>> upstream/master
 =======
 * Fair Play é louvável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário
 * PEM (pulso eletro-magnético) é algo definitivamente proibido durante as batalhas
 >>>>>>> release
+=======
+* Não é permitido o uso de criptografias, uma vez que sempre estarão fadadas a serem quebradas só resultam em perda de tempo em uma Spacewar.
+>>>>>>> upstream/master
