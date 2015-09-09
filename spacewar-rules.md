@@ -1,4 +1,4 @@
- Regras da Guerra nas Estrelas
+Regras da Guerra nas Estrelas
 
 1. Seu objetivo é destruir a LBP do adversário.
 2. Não é permitido phasers com mais de 10 Octawatts de potência.
@@ -9,5 +9,6 @@
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
-0. Reconhecimento por sondas é livre.
-11. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
+10. Reconhecimento por sondas é livre.
+11. Não é permitido manter o escudo ativo por mais de 10 segundos.
+12. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
