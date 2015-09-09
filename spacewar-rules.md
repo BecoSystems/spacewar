@@ -9,5 +9,6 @@
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
-10. Fair Play é louvável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário
-11. PEM (pulso eletro-magnético) é algo definitivamente proibido durante as batalhas
+10. Reconhecimento por sondas é livre.
+11. Fair Play é louvável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário
+12. PEM (pulso eletro-magnético) é algo definitivamente proibido durante as batalhas
