@@ -9,4 +9,4 @@
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
-10. O escudo será desativado após um periodo de 10 segundos 
+10. O escudo será desativado após 10 segundos.
