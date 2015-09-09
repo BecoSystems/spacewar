@@ -9,3 +9,5 @@
 * Não é permitido utilizar de efeito estilingue para fazer manobras.
 * Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 * O ataque com ondas giratórias vale 4 pontos
+* Não é permitido o uso de criptografias, uma vez que sempre estarão fadadas a serem quebradas só resultam em perda de tempo em uma Spacewar.
+* Não é permitido o uso de efeito estilingue para realização de manobras.
