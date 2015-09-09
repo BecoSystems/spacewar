@@ -10,3 +10,4 @@
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
+11. Não é permitido o uso de cheats ou programas maliciosos.
