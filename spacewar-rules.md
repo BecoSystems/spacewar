@@ -1,5 +1,6 @@
 # Regras da Guerra nas Estrelas
 
+<<<<<<< HEAD
 1. Seu objetivo é destruir a LBP do adversário.
 2. Não é permitido phasers com mais de 10 Octawatts de potência.
 3. Está desclassificado quem acionar a velocidade de dobra intergaláctica.
@@ -12,3 +13,12 @@
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Ao termino da batalha, o vencedor deverá voltar a acender a Luz Branca da Paz (LBP).
+=======
+* Seu objetivo é destruir a LBP do adversário.
+* Não é permitido phasers com mais de 10 Octawatts de potência.
+* Está desclassificado quem acionar a velocidade de dobra intergaláctica.
+* Não é permitido atirar com o escudo ativado.
+* Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
+* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
+* Ao termino da batalha, o vencedor deverá voltar a acender a luz branca da paz (LBP) 
+>>>>>>> 2ae2c69f70a12466877accfaf8a50def21edb721
