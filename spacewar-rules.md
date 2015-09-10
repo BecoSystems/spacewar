@@ -10,6 +10,6 @@
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
-11. Não é permitido manter o escudo ativo por mais de 10 segundos
-12. Fair Play é louvável mas não obrigatório, a responsabilidade é sua caso dê uma segunda chance ao adversário
-13. PEM (pulso eletro-magnético) é algo definitivamente proibido durante as batalhas
+11. Não é permitido manter o escudo ativo por mais de 10 segundos.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Fair Play é louvável mas não obrigatório, a responsabilidade é sua ca    so dê uma segunda chance ao adversário
