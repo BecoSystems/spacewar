@@ -10,4 +10,7 @@
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
-11. Lancamento de mísseis limitado a 5 por partida.
+11. Não é permitido manter o escudo ativo por mais de 10 segundos.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. Lancamento de mísseis limitado a 5 por partida.
