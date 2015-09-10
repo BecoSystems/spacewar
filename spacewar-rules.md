@@ -11,4 +11,5 @@
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
-12. Não é permitido disparos de mísseis thermal teleguiados com aim assit.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Não é permitido diparos de mísseis thermal com aim assit. 
