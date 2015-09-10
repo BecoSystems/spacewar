@@ -12,4 +12,5 @@
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
-13. Não é permitido diparos de mísseis thermal com aim assit. 
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. Não é permitido disparos de mísseis thermal com aim assist.
