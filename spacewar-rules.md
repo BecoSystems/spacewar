@@ -10,5 +10,9 @@
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
+<<<<<<< HEAD
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Se der o tiro com o escudo adversário ativado, ele ricocheteia e o jogador perde 2 pontos.
+=======
+11. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
+>>>>>>> ef553ae24adc2c078d20237f809c21c6212e45d7
