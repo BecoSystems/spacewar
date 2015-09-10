@@ -11,4 +11,6 @@ Regras da Guerra nas Estrelas
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
-12. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz
+Branca da Paz.
