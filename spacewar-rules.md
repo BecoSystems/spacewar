@@ -11,3 +11,4 @@
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
+12. Se der o tiro com o escudo adversário ativado, ele ricocheteia e o jogador perde 2 pontos.
