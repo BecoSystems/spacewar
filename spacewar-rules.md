@@ -11,4 +11,6 @@
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
-12. Atirando com o escudo do oponente ativado, o tiro ricocheteia e jogador perde 2 pontos.
+12. Não é permitido o uso de cheats ou programas maliciosos.
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
