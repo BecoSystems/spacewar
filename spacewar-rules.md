@@ -12,4 +12,5 @@
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
-13. É permitido atacar duas vezes seguidas quando o piloto ganha power-up. 
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. É permitido atacar duas vezes seguidas quando o piloto ganha power-upp.
