@@ -12,6 +12,10 @@
 10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
+<<<<<<< HEAD
 13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
 14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
 15. Fica invalidada a regra de número 15.
+=======
+13. A arma a laser superaquece após 7 segundos de uso continuo.
+>>>>>>> 794bd13dae1fc606f9f732baf866b9992669f351
