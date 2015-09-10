@@ -9,7 +9,7 @@
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
-0. Reconhecimento por sondas é livre.
+10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
 13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
