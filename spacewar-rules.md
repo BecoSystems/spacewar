@@ -12,3 +12,4 @@
 10. Reconhecimento por sondas é livre.
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
+13. A arma a laser superaquece após 7 segundos de uso continuo.
