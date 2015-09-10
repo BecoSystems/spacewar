@@ -6,4 +6,4 @@
 * Não é permitido atirar com o escudo ativado.
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-  A nave que inicia com a luz vermelha da guerra, tem diminução de 10% na potência da phasers.
+ A cada batalha ganha, sua nave tem aumento de 10% na potência da phasers,até atingir o limite maximo.
