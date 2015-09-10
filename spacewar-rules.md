@@ -10,7 +10,14 @@
 8. O ataque com ondas giratórias vale 4 pontos
 9. Não é permitido o uso de criptografias
 10. Reconhecimento por sondas é livre.
+<<<<<<< HEAD
+11. Distanciar mais que dois anos-luz da nave inimiga é considerado desistência.
+=======
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
 13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+<<<<<<< HEAD
 14. As naves precisam ter permissão da Central de Controle Intergalática antes de se movimentar acima da velocidade da luz.
+=======
+>>>>>>> upstream/master
+>>>>>>> c759e7d7801a6d2ca09c1333c735064bf3737dcf
