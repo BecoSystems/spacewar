@@ -13,3 +13,4 @@
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
 13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. As naves precisam ter permissão da Central de Controle Intergalática antes de se movimentar acima da velocidade da luz.
