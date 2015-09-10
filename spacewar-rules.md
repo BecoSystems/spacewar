@@ -15,3 +15,4 @@
 13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
 14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
 15. Fica invalidada a regra de número 15.
+16. O escudo será desativado após um periodo de 10 segundos.
