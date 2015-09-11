@@ -1,4 +1,4 @@
- Regras da Guerra nas Estrelas
+# Regras da Guerra nas Estrelas
 
 1. Seu objetivo é destruir o adversário.
 2. Não é permitido phasers com mais de 15 Octawatts de potência.
