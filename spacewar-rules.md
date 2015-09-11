@@ -12,7 +12,5 @@
 10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
-13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
-14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
-15. Fica invalidada a regra de número 15.
-16. O escudo será desativado após um periodo de 10 segundos.
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. O escudo será desativado após um periodo de 10 segundos.
