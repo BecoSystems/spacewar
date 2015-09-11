@@ -7,9 +7,9 @@
 5. Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 6. Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
-8. O ataque com ondas giratórias vale 4 cabeças de Zorgs.
-9. Não é permitido o uso de criptografias de menos que 128 bits.
-10. Reconhecimento por drones é permitido antes da batalha (espionagem).
+8. O ataque com ondas giratórias vale 4 cabeças de Zorgs
+9. Não é permitido o uso de criptografias de menos que 128 bits
+10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
 13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
