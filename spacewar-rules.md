@@ -19,3 +19,4 @@
 17. O escudo será desativado após o tempo de 10 segundos.
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
+20. A cada batalha ganha,sua nave tem aumento de 10% na potência da phasers,até atingir o limite máximo.
