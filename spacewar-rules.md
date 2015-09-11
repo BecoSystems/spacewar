@@ -16,4 +16,8 @@
 14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
 15. Fica invalidada a regra de número 15.
 16. Ao termino da batalha, o vencedor deverá voltar a acender a Luz Branca da Paz (LBP).
+<<<<<<< HEAD
 17. A arma superaquece após 7 segundos de uso contínuo.
+=======
+17. A arma superaquece após 7 segundos de uso continuo.
+>>>>>>> 2d0a1da81e83a8a6e7e6c5051b52c3cbb2e3ff4d
