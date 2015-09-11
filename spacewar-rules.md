@@ -13,4 +13,8 @@
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
 13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
-14. Lancamento de mísseis limitado a 5 por partida.
+14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
+15. Fica invalidada a regra de número 15.
+16. Ao termino da batalha, o vencedor deverá voltar a acender a Luz Branca da Paz (LBP).
+17. O escudo será desativado após o tempo de 10 segundos.
+18. Lancamento de mísseis limitado a 5 por partida.
