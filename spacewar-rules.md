@@ -15,4 +15,5 @@
 13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
 14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
 15. Fica invalidada a regra de número 15.
-16. A cada batalha ganha, sua nave tem aumento de 10% na potência da phasers, até atingir o limite.
+16. Ao termino da batalha, o vencedor deverá voltar a acender a Luz Branca da Paz (LBP).
+17. O escudo será desativado após o tempo de 10 segundos.
