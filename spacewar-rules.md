@@ -1,4 +1,4 @@
-# Regras da Guerra nas Estrelas
+Regras da Guerra nas Estrelas
 
 1. Seu objetivo é destruir o adversário.
 2. Não é permitido phasers com mais de 15 Octawatts de potência.
@@ -20,3 +20,4 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
+21. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
