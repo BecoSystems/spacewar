@@ -12,6 +12,10 @@
 10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
 12. Não é permitido o uso de cheats ou programas maliciosos.
+<<<<<<< HEAD
+13. Numa partida,os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
+14. Ao recarregar o jogador ficará vulnerável por 2 segundos.
+=======
 13. Durante a batalha, os jogadores terão direito a recarregar suas armas 2 vezes a cada novo oponente.
 14. Atirando com o escudo do oponente ativado, o tiro ricocheteia e você perde 2 pontos.
 15. Fica invalidada a regra de número 15.
@@ -20,3 +24,4 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
+>>>>>>> upstream/master
