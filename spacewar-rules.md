@@ -1,10 +1,5 @@
 # Regras da Guerra nas Estrelas
 
-* Seu objetivo é destruir a LBP do adversário.
-* Não é permitido phasers com mais de 10 Octawatts de potência.
-* Está desclassificado quem acionar a velocidade de dobra intergaláctica.
-* Não é permitido atirar com o escudo ativado.
-* Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
-* Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
-* Em caso das naves se colidirem, ambas serão destruídas.
-* Pelo mapa pode-se coletar "upgrades" que servem para melhorar a nave.
+21. Em caso das naves se colidirem, ambas serão destruídas
+22. Pelo mapa pode-se coletar "upgrades" que servem para melhorar a nave.
+23. O tempo limite de batalha é de 10 minutos, se caso ultrapasse o tempo permitido, vence aquela que mais deu dano no adversário.
