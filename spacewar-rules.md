@@ -23,3 +23,4 @@
 21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
 23. A blindagem do drone so resistira a 3 tiros.
+24. A nave pode coletar upgrades pelo mapa.
