@@ -27,3 +27,4 @@
 25. A nave pode ter duas cores: branca ou preta.
 26. Conte com o Master Chief por 1 minuto a cada 10 tiros de headshot que conseguir, aproveite bem esse 1 minuto com ele.
 27. Se encontra o freeza em algum planeta, lute contra ele e tente impedir que ele destrua o planeta.
+28. Há baús com armas especiais espalhados no espaço, caso encontre, a nave será atualizada automaticamente.
