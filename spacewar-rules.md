@@ -37,3 +37,4 @@
 35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
 36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
 37. Quando o oponente se render não podem ser feitas quaisquer ações ofensivas.
+38. Quando destruir uma nave inimiga reportar a seus superiores.
