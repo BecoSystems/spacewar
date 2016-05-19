@@ -30,7 +30,7 @@
 28. Nao pode naves com mais de um quilometro de altura.
 29. Todas as regras foram canceladas.
 30. Se você encontrar o Voyager 1 pegue o disco de ouro e coloque no seu vinil para tocar.
-31. A nave não pode ultrapassar a velocidae de 2100 quilometros por metro.
+31. A nave nao pode ultrapassar a velocidade de 2100 quilometros por metro.
 32. Caso ocorra chuva de meteoros é necessário mudar o campo de batalha.
 33. Caso a nave encontre baus escondidos, ganhará novas armas, aumentando sua força de combate.
 34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
