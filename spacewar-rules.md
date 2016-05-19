@@ -22,3 +22,4 @@
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
 21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
+23. Há naves de duas cores: uma branca e outra preta.
