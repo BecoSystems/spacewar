@@ -40,3 +40,4 @@
 38. Caso ocorra um ataque inimigo, devolva na mesma moeda.
 39. Invoque galactus para atacar o oponente.
 40. Apenas deve-se destruir a estrela da morte por dentro.
+41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
