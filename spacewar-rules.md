@@ -38,3 +38,4 @@
 36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
 37. Quando o oponente se render não podem ser feitas quaisquer ações ofensivas.
 38. Caso ocorra um ataque inimigo, devolva na mesma moeda.
+39. Apenas deve-se destruir a estrela da morte por dentro.
