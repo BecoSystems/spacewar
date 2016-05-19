@@ -24,3 +24,4 @@
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
 23. A blindagem do drone so resistira a 3 tiros.
 24. A nave pode coletar upgrades pelo mapa.
+25. Caso ocorra chuva de meteoros será necessário a mudança do campo de batalha.
