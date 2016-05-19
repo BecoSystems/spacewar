@@ -34,3 +34,4 @@
 32. Caso ocorra chuva de meteoros é necessário mudar o campo de batalha.
 33. Caso a nave encontre baus escondidos, ganhará novas armas, aumentando sua força de combate.
 34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
+35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
