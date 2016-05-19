@@ -37,4 +37,3 @@
 35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
 36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
 37. Caso ocorra um ataque inimigo, devolva na mesma moeda.
-
