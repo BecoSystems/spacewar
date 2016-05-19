@@ -21,3 +21,4 @@
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
 21. Em caso de Surrender  use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
+22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
