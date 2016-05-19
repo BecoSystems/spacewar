@@ -35,4 +35,6 @@
 33. Caso a nave encontre baus escondidos, ganhará novas armas, aumentando sua força de combate.
 34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
 35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
-36. Caso ocorra um ataque inimigo, devolva na mesma moeda.
+36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
+37. Caso ocorra um ataque inimigo, devolva na mesma moeda.
+
