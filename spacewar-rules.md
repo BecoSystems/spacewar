@@ -29,3 +29,4 @@
 27. Se encontra o freeza em algum planeta, lute contra ele e tente impedir que ele destrua o planeta.
 28. Nao pode naves com mais de um quilometro de altura.
 29. Todas as regras foram canceladas.
+30. Se você encontrar o Voyager 1 pegue o disco de ouro e coloque no seu vinil para tocar.
