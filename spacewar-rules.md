@@ -36,5 +36,6 @@
 34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
 35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
 36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
+<<<<<<< HEAD
 37. Quando o oponente se render não podem ser feitas quaisquer ações ofensivas
 38. Se voce achar o sabre de luz de Luke Skywalker voce recebe dano duplo.
