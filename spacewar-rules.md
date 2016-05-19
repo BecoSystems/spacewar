@@ -32,4 +32,7 @@
 30. Se você encontrar o Voyager 1 pegue o disco de ouro e coloque no seu vinil para tocar.
 31. A nave não pode ultrapassar a velocidade de 100 anos-luz.
 32. Caso ocorra chuva de meteoros é necessário mudar o campo de batalha.
-33. Se voce encontrar o phaser de Kircklan voce ganha bonus de dano
+33. Caso a nave encontre baus escondidos, ganhará novas armas, aumentando sua força de combate.
+34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
+35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
+36. Se voce achar o sabre de luz de luke skywalker voce recebe double damage
