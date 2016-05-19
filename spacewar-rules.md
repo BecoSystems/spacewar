@@ -32,3 +32,4 @@
 30. Se você encontrar o Voyager 1 pegue o disco de ouro e coloque no seu vinil para tocar.
 31. A nave não pode ultrapassar a velocidade de 100 anos-luz.
 32. Caso ocorra chuva de meteoros é necessário mudar o campo de batalha.
+33. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
