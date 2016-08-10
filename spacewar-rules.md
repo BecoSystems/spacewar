@@ -20,4 +20,26 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
-21. A cada batalha ganha, sua nave tem aumento de 10% na potência da phasers, até atingir o limite.
+21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
+22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
+23. A blindagem do drone so resistira a 3 tiros.
+24. A nave pode coletar upgrades pelo mapa.
+25. A nave pode ter duas cores: branca ou preta.
+26. Conte com o Master Chief por 1 minuto a cada 10 tiros de headshot que conseguir, aproveite bem esse 1 minuto com ele.
+27. Se encontra o freeza em algum planeta, lute contra ele e tente impedir que ele destrua o planeta.
+28. Nao pode naves com mais de um quilometro de altura.
+29. Todas as regras foram canceladas.
+30. Se você encontrar o Voyager 1 pegue o disco de ouro e coloque no seu vinil para tocar.
+31. A nave nao pode ultrapassar a velocidade de 2100 quilometros por metro.
+32. Caso ocorra chuva de meteoros é necessário mudar o campo de batalha.
+33. Caso a nave encontre baus escondidos, ganhará novas armas, aumentando sua força de combate.
+34. No caso de uso indevido da força, o time deve ser penalizado com a expulsão de um oitavo de seus exercitos.
+35. Caso o Darth Vader apareça corra para a nebulosa mais próxima.
+36. Quando usar a velocidade da luz, espere 30 segundos para recarregar.
+37. Quando o oponente se render não podem ser feitas quaisquer ações ofensivas.
+38. Caso ocorra um ataque inimigo, devolva na mesma moeda.
+39. Invoque galactus para atacar o oponente.
+40. Apenas deve-se destruir a estrela da morte por dentro.
+41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
+42. Quando destruir uma nave inimiga reportar a seus superiores.
+43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
