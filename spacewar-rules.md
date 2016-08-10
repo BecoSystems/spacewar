@@ -20,3 +20,4 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
+21. É necessário um intervalo de 5 segundos entre os acionamentos do escudo.
