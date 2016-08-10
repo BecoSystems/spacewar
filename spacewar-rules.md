@@ -44,4 +44,4 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
-45. Seus escudos de energia da nave nao poderam aguentar mais que 4 torpedos de -ions
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
