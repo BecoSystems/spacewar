@@ -42,6 +42,7 @@
 40. Apenas deve-se destruir a estrela da morte por dentro.
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
-43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
+43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.<<<<<<< HEAD
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. Voce so podera ativar a Invisivilidade tres vezes por partida.
