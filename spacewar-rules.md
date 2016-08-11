@@ -20,6 +20,7 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
+21. A cada batalha ganha, sua nave tem aumento de 10% na potência da phasers, até atingir o limite.
 21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
 23. A blindagem do drone so resistira a 3 tiros.
@@ -45,3 +46,4 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. *Se Sasuke Uchiha aparecer, derrote-o com o Rasengan.
