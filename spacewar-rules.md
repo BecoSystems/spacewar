@@ -46,4 +46,4 @@
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
 46.Os Warddles são coringas quando aparecem livremente no campo de batalha. 
->>>>>>> upstream/master
+
