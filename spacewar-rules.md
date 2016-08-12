@@ -42,4 +42,5 @@
 40. Apenas deve-se destruir a estrela da morte por dentro.
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
-43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
+43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos
+44. Ao entrar em um buraco de minhoca o nível de energia cairá pela metade.
