@@ -47,3 +47,4 @@
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
+48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
