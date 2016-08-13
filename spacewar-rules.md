@@ -43,9 +43,7 @@
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
-<<<<<<< HEAD
-44. Velocidade da luz desativa seus escudos.
-=======
-46. A nave nao eh capaz de passar da velocidade da luz.
-47. Sua nave apita ao receber dano.
->>>>>>> release
+44. Atire em todos Pokemons que avistar.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
+47. Quando sua nave levar dano, ela apita.
