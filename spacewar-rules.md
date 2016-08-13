@@ -47,3 +47,5 @@
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
+48. Durante a passagem de um cometa, a munição da nave que voltar a acender a Luz Branca da Paz (LBP) primeiro, será ilimitada.
+>>>>>>> upstream/master
