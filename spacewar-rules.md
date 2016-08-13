@@ -45,5 +45,4 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
-4666666. Se ele me chamar de feia quero que ele seja pulverizado em átomos.
->>>>>>> release
+46. Se ele me chamar de feia quero que ele seja pulverizado em átomos.
