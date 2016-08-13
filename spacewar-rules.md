@@ -45,4 +45,4 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave  entar mais que 4 torpedos de íons
-Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+46.Se o freeza destruir a sua nave, volte para a nebulosa anterior.
