@@ -45,3 +45,4 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. Não é permitido usar a Força para desviar um ataque adversário.
