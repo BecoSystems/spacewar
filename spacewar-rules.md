@@ -45,5 +45,5 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
-46. Apos vencer 5 batalhas seguidas, voce ganha o direito de pedir por um tiro de suporte da estrela da morte.
-
+46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
+47. A cada 5 vitorias consecutivas ganhe um tiro de apoio da estrela da morte.
