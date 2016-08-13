@@ -44,3 +44,4 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 46. A nave nao eh capaz de passar da velocidade da luz.
+47. Sua nave apita ao receber dano.
