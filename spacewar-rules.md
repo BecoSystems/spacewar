@@ -43,6 +43,7 @@
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos
+<<<<<<< HEAD
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
@@ -50,3 +51,6 @@
 47.Ao entrar em um buraco de minhoca o nível de energia cairá pela metade.
 
 
+=======
+44. Ao entrar em um buraco de minhoca o nível de energia cairá pela metade.
+>>>>>>> edb395db688e5a9883a052e87423784411ff0fc1
