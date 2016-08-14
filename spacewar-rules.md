@@ -48,4 +48,5 @@
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use C-3PO.
 48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
-49. Durante a passagem de um cometa, a munição da nave que acender primeiro a Luz Branca da Paz (LBP), será infinita.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
+50. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada. 
