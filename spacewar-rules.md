@@ -48,3 +48,4 @@
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
 48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
