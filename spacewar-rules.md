@@ -57,3 +57,6 @@
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
 53.Ao entrar em um buraco de minhoca os níveis de energia cairão em 50%.
+53. Quando sua nave recebe dano, ela apita.
+54. P.E.M.(Pulsos eletromagnéticos) só podem ser usados com um intervalo de 12 horas.
+
