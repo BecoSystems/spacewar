@@ -53,3 +53,5 @@
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
 53. Quando sua nave recebe dano, ela apita.
+54. Em caso de meteoro de pegasus ative a armadura da sua nave.
+
