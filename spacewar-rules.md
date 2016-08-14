@@ -51,5 +51,5 @@
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.>>> upstream/master
-52. Um relampâgo da força será o prêmio do vencedor para ser ultilizado na próxima partida.
-
+51. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
+52. O vencedor receberá como recompensa um Relâmpago da força para ser ultilizado na próxima partida.   
