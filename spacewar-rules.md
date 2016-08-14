@@ -52,4 +52,5 @@
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
-53. se o computador de borto da nave falhar,instale o debian.
+53. Quando sua nave recebe dano, ela apita.
+54. quando atingido por um meteoro perde 0.1 de defesa do escudo.
