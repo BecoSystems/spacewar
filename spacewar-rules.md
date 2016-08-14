@@ -49,7 +49,14 @@
 47. Para se comunicar com estranhos, use o C-3PO.
 48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
+<<<<<<< HEAD
+50. quando atingido pelo pikachu,recebe dano permanente no escudo.
+=======
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+<<<<<<< HEAD
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
 53. se o computador de borto da nave falhar,instale o debian.
+=======
+>>>>>>> upstream/master
+>>>>>>> 6b233bb6598f7310c8c23e74b11c76a0fe7a8e93
