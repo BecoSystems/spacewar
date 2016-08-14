@@ -51,3 +51,4 @@
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+52. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
