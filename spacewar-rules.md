@@ -51,4 +51,5 @@
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
-52. Quando sua nave recebe dano, ela apita.
+52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
+53. Quando sua nave recebe dano, ela apita.
