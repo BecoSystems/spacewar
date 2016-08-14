@@ -52,3 +52,4 @@
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
+53. Se a nave capturar o pikachu ganha mais 5 vidas. 
