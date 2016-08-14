@@ -44,6 +44,11 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
-45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
-47. Quando sua nave levar dano, ela apita.
+47. Para se comunicar com estranhos, use o C-3PO.
+48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
+50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
+51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+52. Quando sua nave recebe dano, ela apita.
