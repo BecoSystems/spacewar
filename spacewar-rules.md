@@ -55,3 +55,4 @@
 53. Quando sua nave recebe dano, ela apita.
 54. Se a nave capturar um pikachu ganha mais 5 vidas.
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
