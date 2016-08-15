@@ -46,3 +46,17 @@
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
 46. Se ele me chamar de feia quero que ele seja pulverizado em átomos.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
+46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
+47. Para se comunicar com estranhos, use o C-3PO.
+48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
+50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
+51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
+53. Quando sua nave recebe dano, ela apita.
+54. Se a nave capturar um pikachu ganha mais 5 vidas.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
+57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. A cada passo para a direita, de um para a esquerda.
