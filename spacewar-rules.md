@@ -55,4 +55,4 @@
 53. Quando sua nave recebe dano, ela apita.
 54. Se a nave capturar um pikachu ganha mais 5 vidas.
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
-56.  cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+56. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
