@@ -1,5 +1,5 @@
 # Regras da Guerra nas Estrelas
-
+i
 1. Seu objetivo é destruir o adversário.
 2. Não é permitido phasers com mais de 15 Octawatts de potência.
 3. Quem acionar a velocidade de dobra intergaláctica durante a batalha terá 2 Zorgs metralhados.
@@ -51,8 +51,11 @@
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+<<<<<<< HEAD
+52. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+=======
 52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
 53. Quando sua nave recebe dano, ela apita.
 54. Se a nave capturar um pikachu ganha mais 5 vidas.
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
-56.  cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+>>>>>>> upstream/master
