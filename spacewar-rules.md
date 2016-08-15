@@ -51,6 +51,8 @@
 49. Se matar o Akernaak, ganhe uma esfera do dragão.
 50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
 51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
-52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
+52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
 53. Quando sua nave recebe dano, ela apita.
-54. quando atingido por um meteoro perde 0.1 de defesa do escudo.
+54. Se a nave capturar um pikachu ganha mais 5 vidas.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. ao colidir com um meteoro a nave perdera 0.1 de defesa do escudo
