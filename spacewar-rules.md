@@ -57,3 +57,4 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
