@@ -46,3 +46,5 @@
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íon
 46 Derrote 5 naves em 5 minutos para ganhar p título de "Spree Killer".
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. Ao entrar em um buraco de minhoca o nível de energia cairá pela metade.
