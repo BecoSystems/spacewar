@@ -54,4 +54,5 @@
 52. Caso encontre o escudo do capitão américa, fique invunerável por 1 minuto.
 53. Quando sua nave recebe dano, ela apita.
 54. Se a nave capturar um pikachu ganha mais 5 vidas.
-5   Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.   
+56. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
