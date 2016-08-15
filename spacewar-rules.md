@@ -20,7 +20,6 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
-21. A cada batalha ganha, sua nave tem aumento de 10% na potência da phasers, até atingir o limite.
 21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
 23. A blindagem do drone so resistira a 3 tiros.
@@ -45,5 +44,17 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
-45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
-46. *Se Sasuke Uchiha aparecer, derrote-o com o Rasengan.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
+46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
+47. Para se comunicar com estranhos, use o C-3PO.
+48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
+50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
+51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
+53. Quando sua nave recebe dano, ela apita.
+54. Se a nave capturar um pikachu ganha mais 5 vidas.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
+57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. *Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
