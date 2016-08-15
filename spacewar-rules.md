@@ -56,3 +56,4 @@
 54. Se a nave capturar um pikachu ganha mais 5 vidas.
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
+57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
