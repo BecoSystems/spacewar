@@ -20,6 +20,7 @@
 18. Não é permitido o uso de efeito estilingue para realização de manobras.
 19. Não é permitido lançamentos de mísseis de napalm teleguiados com aim assit.
 20. Munições limitadas, podendo recarregar a cada 10 segundos.
+21. É necessário um intervalo de 5 segundos entre os acionamentos do escudo.
 21. Para se render use o R2D2 dê 2 beeps e pisque 2 vezes a Luz Branca da Paz.
 22. A nave tem a capacidade de se teletransportar em pequenas distâncias.
 23. A blindagem do drone so resistira a 3 tiros.
@@ -57,3 +58,4 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. Cada acionamento do escudo, o usuário terá que esperar 5 segundos para acionar o escudo novamente.
