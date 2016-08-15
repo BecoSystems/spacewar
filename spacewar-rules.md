@@ -44,6 +44,8 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. Se ele me chamar de feia quero que ele seja pulverizado em átomos.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
@@ -57,3 +59,4 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. A cada passo para a direita, de um para a esquerda.
