@@ -59,4 +59,9 @@
 53.Ao entrar em um buraco de minhoca os níveis de energia cairão em 50%.
 53. Quando sua nave recebe dano, ela apita.
 54. P.E.M.(Pulsos eletromagnéticos) só podem ser usados com um intervalo de 12 horas.
+52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
+53. Quando sua nave recebe dano, ela apita.
+54. Se a nave capturar um pikachu ganha mais 5 vidas.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. Ataques com raios gama essão proibidos de usar em galaxias habitadas.
 
