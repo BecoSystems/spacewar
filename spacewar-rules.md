@@ -61,4 +61,11 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+<<<<<<< HEAD
 58. Destrua 5 naves em 5 minutos para ganhar o título "Spree-Killer".
+=======
+58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
+59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
+>>>>>>> upstream/master
