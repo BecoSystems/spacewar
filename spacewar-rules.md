@@ -44,6 +44,10 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íon
+46 Derrote 5 naves em 5 minutos para ganhar p título de "Spree Killer".
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+46. Ao entrar em um buraco de minhoca o nível de energia cairá pela metade.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
@@ -57,7 +61,9 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. Destrua 5 naves em 5 minutos para ganhar o título "Spree-Killer".
 58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
 61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
+62.Destrua cinco naves em menos de cinco minutos para ganhar o título "Spree-Killer".
