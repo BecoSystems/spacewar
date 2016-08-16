@@ -59,3 +59,4 @@
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
 58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
