@@ -44,7 +44,8 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
-45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons
+45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos d    e íons.
 46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
 47. Para se comunicar com estranhos, use o C-3PO.
 48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
@@ -60,3 +61,4 @@
 58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+61. Não é permitido usar a Força para desviar um ataque adversário.
