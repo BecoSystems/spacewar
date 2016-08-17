@@ -64,4 +64,5 @@
 62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
 63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
 64. akernaak grita birrrrl.
-65.*Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
+65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
+66. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
