@@ -61,5 +61,7 @@
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
 61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
-62. *Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
-
+62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
+63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
+64. akernaak grita birrrrl.
+65.*Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
