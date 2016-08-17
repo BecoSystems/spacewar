@@ -65,3 +65,4 @@
 63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
 64. akernaak grita birrrrl.
 65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
+66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
