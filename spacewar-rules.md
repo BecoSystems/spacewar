@@ -57,5 +57,13 @@
 55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
 56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
 57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
-58. A cada Avada Kedavra lançado ganha-se uma vida extra.
+58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
+59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
+62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
+63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
+64. akernaak grita birrrrl.
+65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
+66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
 
