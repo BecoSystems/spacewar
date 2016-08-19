@@ -45,4 +45,26 @@
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
-46. sair
+46. A cada 7 pokemons capturados ganha-se 3 segundos de imortalidade.
+47. Para se comunicar com estranhos, use o C-3PO.
+48. Se você não alcança o Super Sayajin Blue, não desafie o Lorde Bills, a menos que esteja carregando alguma sobremesa.
+49. Se matar o Akernaak, ganhe uma esfera do dragão.
+50. Os Warddles são coringas quando aparecem livremente no campo de batalha.
+51. Durante a passagem de um cometa, a nave que acender primeiro a Luz Branca da Paz (LBP), terá munição ilimitada.
+52. Caso encontre o escudo do capitão américa, fique invulnerável por 1 minuto.
+53. Quando sua nave recebe dano, ela apita.
+54. Se a nave capturar um pikachu ganha mais 5 vidas.
+55. Todas as regras que citam pokemons serão ignoradas pela sua insignificância.
+56. Atacar com o escudo de invisibilidade ativado, ira desativa-lo.
+57. Durante os meteoros de pegasus ative sua armadura para ganhar uma esfera do dragão.
+58. Caso os vampiros assaltantes montadores de golfinhos apareçam no campo de guerra, de um grande suborno para que eles o ajudem.
+59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
+60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
+61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
+62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
+63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
+64. akernaak grita birrrrl.
+65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
+66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
+67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
+68. A nave que acertar o Titio Avô vence a batalha.
