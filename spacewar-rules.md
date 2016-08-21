@@ -68,3 +68,4 @@
 66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
+69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
