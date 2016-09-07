@@ -42,7 +42,6 @@
 40. Apenas deve-se destruir a estrela da morte por dentro.
 41. Se voce encontrar o sabre de luz de Luke Skyewalker voce passara a dar dano duplicado.
 42. Quando destruir uma nave inimiga reportar a seus superiores.
-<<<<<<< HEAD
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Atire em todos Pokemons que avistar.
 45. Os escudos de energia da nave não poderão aguentar mais que 4 torpedos de íons.
@@ -70,7 +69,5 @@
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
-=======
-43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos
-44. Ao encontrar com um Dalek é fim de batalha.
+70. Ao encontrar com um Dalek é fim de batalha.
 >>>>>>> release
