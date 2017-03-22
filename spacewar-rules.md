@@ -61,5 +61,13 @@
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
 61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
-62. O teletransporte so pode ser acionado com os escudos desativados.
-63. Por conta da importancia dos pokemons, a regra 55 esta anulada.
+62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
+63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
+64. akernaak grita birrrrl.
+65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
+66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
+67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
+68. A nave que acertar o Titio Avô vence a batalha.
+69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
+70. Ataques usando a Força geram Danos tripicados.
+71. Por conta da importancia dos pokemons a regra 55 foi anulada.
