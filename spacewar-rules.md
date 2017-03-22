@@ -70,3 +70,4 @@
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
 70. Ataques usando a Força geram Danos tripicados.
+71. Por conta da importancia dos pokemons a regra 55 foi anulada.
