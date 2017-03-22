@@ -62,3 +62,4 @@
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
 61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
 62. O teletransporte so pode ser acionado com os escudos desativados.
+63. Por conta da importancia dos pokemons, a regra 55 esta anulada.
