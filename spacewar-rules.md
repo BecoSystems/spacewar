@@ -69,4 +69,4 @@
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
-70. Apartir da 3 reprovação em Ruben, considerar mudar de nave.
+70. A partir da 3 reprovação em Ruben, considerar mudar de nave.
