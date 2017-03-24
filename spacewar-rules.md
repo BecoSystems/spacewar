@@ -71,3 +71,4 @@
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
 70. Ataques usando a Força geram Danos tripicados.
 71. Caso o Spok apareça, fuja.
+72. Caso um esquerdalha apareça, explique-o que impeachment não é golpe, e sim, algo previsto na constituição de 88.
