@@ -72,3 +72,4 @@
 70. Ataques usando a Força geram Danos tripicados.
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
+73. Andar de caminhão com o Bino com certeza é uma cilada.
