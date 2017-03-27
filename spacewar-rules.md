@@ -73,4 +73,4 @@
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
-74. Se rolar menos de dez, a república será invadida pelos Yuuzhan Vong.
+74. Deve-se temer mais o amor de uma mulher do que o ódio de um homem.
