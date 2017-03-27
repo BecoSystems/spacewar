@@ -73,3 +73,4 @@
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
+74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
