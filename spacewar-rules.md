@@ -71,5 +71,7 @@
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
 70. Ataques usando a Força geram Danos tripicados.
 71. Caso o Spok apareça, fuja.
-
+72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
+73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
+74. Se avistar o cumpadre Washington, volte duas casas e segure o tchan.
 
