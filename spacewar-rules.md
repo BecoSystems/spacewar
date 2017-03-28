@@ -61,7 +61,7 @@
 59. Se o freeza destruir a sua nave, volte para a nebulosa anterior.
 60. A cada 3 usos repetidos de escudo sem executar um disparo e sem receber dano, receba uma munição do tipo K.O.
 61. A cada acionamento do escudo, o usuário deverá esperar no mínimo 5 segundos para acioná-lo novamente.
-62. se encontrar o kuririn vivo,voce ganha um premio por tamanha raridade.
+62. Se encontrar o kuririn vivo, voce ganha um premio por tamanha raridade.
 63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
 64. akernaak grita birrrrl.
 65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
@@ -74,3 +74,4 @@
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
+75. Comer uma Ruffles prolonga o tempo em que você pode prender a respiração no espaço por 10 minutos.
