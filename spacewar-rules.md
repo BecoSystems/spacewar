@@ -75,3 +75,4 @@
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
+76. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
