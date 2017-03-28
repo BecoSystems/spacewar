@@ -70,4 +70,9 @@
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
 70. Ataques usando a Força geram Danos tripicados.
-71. Se chegou até aqui, dê três pulos.
+71. Caso o Spok apareça, fuja.
+72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
+73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
+74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
+75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
+76. Se leu até aqui, dê três pulos.
