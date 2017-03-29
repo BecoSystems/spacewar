@@ -79,3 +79,7 @@
 77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
+80. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+
+
+
