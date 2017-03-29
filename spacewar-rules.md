@@ -75,4 +75,4 @@
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
-76. A cada alien morto você ganhará uma torta .
+76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
