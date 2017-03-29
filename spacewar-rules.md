@@ -75,9 +75,6 @@
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
-<<<<<<< HEAD
-76. A regra de número 100 só será aceita caso cite mestre Yoda.
-=======
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
 77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
->>>>>>> 26295d21f769097ed29c229f7002e71da27d854f
+78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
