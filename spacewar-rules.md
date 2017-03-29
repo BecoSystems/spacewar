@@ -76,3 +76,4 @@
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
+77. A cada alien morto você ganhará uma torta.
