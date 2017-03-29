@@ -77,3 +77,4 @@
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
 77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
+78. In i gilith, ennas na- bau thenid. Er ceri- ú- simplui palad- na i gilith.
