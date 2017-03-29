@@ -76,3 +76,4 @@
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
+77. Toda nave vira um transformer com o aperto de um botão.
