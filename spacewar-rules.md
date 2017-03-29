@@ -76,4 +76,5 @@
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
-77. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrrl.
+77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
+78. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
