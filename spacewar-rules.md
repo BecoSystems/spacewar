@@ -73,10 +73,6 @@
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
-<<<<<<< HEAD
-74. Se avistar o cumpadre Washington, volte duas casas e segure o tchan.
-
-=======
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
@@ -84,5 +80,6 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
-81. O grande Pão de Queijo Cósmico causa lentidão em unidades inimigas próximas.
->>>>>>> 8430b11269c143881f089041107959c5bde24ab5
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+82. Se Sauron aparecer, destrua seu anel.
+83. Se avistar o planeta Cumpadre Washington 18, volte duas casas e segure o tchan.
