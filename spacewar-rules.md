@@ -80,7 +80,5 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
-81. Ao encontrar alguém que se enquadre na regra 73, certifique-se de estar num raio de 1 ano-luz do combatente.
-
-=======
->>>>>>> upstream/master
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl. 
+82. Ao encontrar alguém que se enquadre na regra 73, certifique-se de estar num raio de 1 ano-luz do combatente.
