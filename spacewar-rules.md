@@ -79,4 +79,6 @@
 77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
-80. Caso encontre o pergaminho do jiraya você ganha a oportunidade de invocar o gamabunta.
+80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+82. Se Sauron aparecer, destrua seu anel.
