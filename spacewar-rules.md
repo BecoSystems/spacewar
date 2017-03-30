@@ -80,3 +80,5 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+Derrote o inimigo e receba um diamante negro que lhe fornecerá Super força.
+
