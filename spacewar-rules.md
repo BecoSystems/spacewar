@@ -81,4 +81,5 @@
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
 81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
-82. Ao parar no porto espacial de Mos Eisley, relaxe ouvindo o tema da Cantina enquanto aproveita um Kamikaze.
+82. Se Sauron aparecer, destrua seu anel.
+83. Se houver algum Stark em naves pr√ximas, exalte o canto das Chuvas de Castamere.
