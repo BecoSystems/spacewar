@@ -69,6 +69,10 @@
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
+<<<<<<< HEAD
+70. Ataques usando a Força geram Danos tripicados.  
+71. Se atirarem em voce use um escudo.
+=======
 70. Ataques usando a Força geram Danos tripicados.
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
@@ -80,3 +84,5 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+81. Se o mario aparecer,saia correndo.
+>>>>>>> 8430b11269c143881f089041107959c5bde24ab5
