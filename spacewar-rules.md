@@ -80,5 +80,10 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+<<<<<<< HEAD
 Derrote o inimigo e receba um diamante negro que lhe fornecerá Super força.
 
+=======
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+82. Se Sauron aparecer, destrua seu anel.
+>>>>>>> a974bf072b1834140b440bd689363b9a8b4fd2b4
