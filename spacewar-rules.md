@@ -85,3 +85,4 @@
 83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
 84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
 85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
+86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
