@@ -82,5 +82,7 @@
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
 81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
 82. Se Sauron aparecer, destrua seu anel.
-83. Caso vocÍ encontre o chamado do ronaldo pelo r·dio intergal·tico, chame-o para o seu lado pois a frota dele ser· de grande ajuda.
-84. Se houver algum Stark em naves pr√ximas, exalte o canto das Chuvas de Castamere.
+83. Caso voc√™ encontre o chamado do ronaldo pelo r√°dio intergal√°tico, chame-o para o seu lado pois a frota dele ser√° de grande ajuda.
+84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
+85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
+86. Se houver algum Stark em naves pr√≥ximas, exalte o canto das Chuvas de Castamere
