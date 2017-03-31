@@ -86,3 +86,4 @@
 84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
 85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
 86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
+87. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
