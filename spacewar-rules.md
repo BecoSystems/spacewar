@@ -69,4 +69,5 @@
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
-70. Ataques usando a Força geram Danos tripicados.
+70. Ataques usando a Força geram Danos tripicados
+71. Se a Murta-Que-Geme-Aparecer em campo,a nave que ativar a LBP 2x primeiro pode ativar o escudo por 20 segundos.
