@@ -84,3 +84,4 @@
 82. Se Sauron aparecer, destrua seu anel.
 83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
 84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
+85. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
