@@ -75,3 +75,4 @@
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
+76. Utilize a regata da Cyclone e a berma da Seaway para camuflar-se entre os galerosos. 
