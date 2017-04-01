@@ -87,3 +87,4 @@
 85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
 86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
+88. Derrote o inimigo e receba um Diamante Negro que lhe fornecerá Super Força, isto lhe tornará invencível. 
