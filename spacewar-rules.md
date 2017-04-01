@@ -87,4 +87,5 @@
 85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
 86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
-88. A cada alien morto você ganhará uma torta .
+88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
+89. A cada alien morto você ganhará uma torta .
