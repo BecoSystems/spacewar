@@ -80,10 +80,11 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
-<<<<<<< HEAD
-Derrote o inimigo e receba um diamante negro que lhe fornecerá Super força.
-
-=======
 81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
 82. Se Sauron aparecer, destrua seu anel.
->>>>>>> a974bf072b1834140b440bd689363b9a8b4fd2b4
+83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
+84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
+85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
+86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
+87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
+88. Derrote o inimigo e receba um Diamante Negro que lhe fornecerá Super Força, isto lhe tornará invencível. 
