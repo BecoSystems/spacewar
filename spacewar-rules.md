@@ -80,4 +80,13 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
-81. Se rolar mais de 6 Dória se tornará chanceler intergalático.
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+82. Se Sauron aparecer, destrua seu anel.
+83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
+84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
+85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
+86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
+87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
+88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
+89. A cada alien morto você ganhará uma torta .
+90. Caso você role 6 o João Doria será eleito chanceler intergalático e prenderá o Lula amanhã.
