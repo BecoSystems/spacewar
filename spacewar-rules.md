@@ -93,5 +93,5 @@
 86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
 88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
-89. A cada alien morto você ganhará uma torta .
-90. Se for escolher uma armas, use um sabre de luz.
+89. A cada alien morto você ganhará uma torta 
+90. Se atirarem em você, use um escudo.
