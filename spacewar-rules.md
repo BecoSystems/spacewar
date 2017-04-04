@@ -74,7 +74,7 @@
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
-75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
+75. Ao capturar um Mimikyu, descarte todos os seus Pikachus
 76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
 77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
@@ -89,3 +89,4 @@
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
 88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
 89. A cada alien morto você ganhará uma torta .
+90. Numa guerra espacial, os magos não devem consumir vinho.
