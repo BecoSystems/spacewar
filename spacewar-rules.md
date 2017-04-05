@@ -90,4 +90,4 @@
 88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
 89. A cada alien morto você ganhará uma torta .
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR
-91. Viajar em velocidades que excedem 2x a velocidade de dobra causa 50% de chance de criação de anomalias no espaço-tempo.
+91. Viajar em velocidades que excedem 2x a velocidade de dobra causa 50% de chance de criação de anomalias no espaçotempo.
