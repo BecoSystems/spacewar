@@ -91,3 +91,4 @@
 89. A cada alien morto você ganhará uma torta .
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
 91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
+92. Se durante uma missão a primeira diretriz for desrespeitada, conjuntamente a infração a alguma lei da robótica,sua nave explodirá automaticamente.
