@@ -69,6 +69,10 @@
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
+<<<<<<< HEAD
+70. Ataques usando a Força geram Danos tripicados.  
+71. Se atirarem em voce use um escudo.
+=======
 70. Ataques usando a Força geram Danos tripicados.
 71. Caso o Spok apareça, fuja.
 72. Cavalos de oito patas e coelhos de quatro podem tentar lhe enganar quando der meia noite.
@@ -80,6 +84,7 @@
 78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
 79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
 80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+81. Se o mario aparecer,saia correndo.
 81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
 82. Se Sauron aparecer, destrua seu anel.
 83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
@@ -88,6 +93,9 @@
 86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
 88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
+89. A cada alien morto você ganhará uma torta 
+90. Se atirarem em você, use um escudo.
 89. A cada alien morto você ganhará uma torta .
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
 91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
+92. Se atirarem em você, use um escudo.
