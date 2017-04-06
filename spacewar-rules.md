@@ -75,4 +75,20 @@
 73. Ao encontrar a camisa do Sport, use-a e se tornará imortal.
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
-76. Utilize a regata da Cyclone e a berma da Seaway para camuflar-se entre os galerosos. 
+76. Comer cuscuz com ovo lhe dá sustância e revigora suas energias.
+77. Comer uma Ruffles prolonga o tempo em que voce pode prender a respiracao no espaco por 10 minutos.
+78. A regra de número 100 só será aceita mediante citação do Mestre Yoda.
+79. Colete 5 escudos e ganhe 30 segundos de invisibilidade.
+80. Caso o inimigo se transforme em gigante, voce podera chamar um Mega Zord.
+81. Caso seu X-bacon caia durante a batalha, o akernaak esta proibido de gritar birrrl.
+82. Se Sauron aparecer, destrua seu anel.
+83. Caso você encontre o chamado do ronaldo pelo rádio intergalático, chame-o para o seu lado pois a frota dele será de grande ajuda.
+84. Caso apareca um Demogorgon, atire pedras com um estilingue de madeira.
+85. Se voce estiver invisivel e atirar, voce perderah a invisibilidade.
+86. Se houver algum Stark em naves próximas, exalte o canto das Chuvas de Castamere
+87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
+88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
+89. A cada alien morto você ganhará uma torta .
+90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
+91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
+92. Utilize um capacete da Cyclone para camuflar-se entre os galerosos espaciais.
