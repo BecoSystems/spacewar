@@ -91,3 +91,4 @@
 89. A cada alien morto você ganhará uma torta .
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
 91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
+92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
