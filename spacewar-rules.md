@@ -89,7 +89,7 @@
 87. Em caso de transações intergalaticas,usar o cone do silencio por medida de precaução.
 88. Cada teletubbie do planeta Jeremias 13 libera uma quest específica.
 89. A cada alien morto você ganhará uma torta .
-90. Numa guerra espacial, os magos não devem consumir vinho.
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
 91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
-92. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte.
+92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
+93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
