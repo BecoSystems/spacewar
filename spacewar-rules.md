@@ -76,3 +76,4 @@
 74. Imediatamente antes do amanhecer, os vampiros espaciais deverão se esconder da luz UV.
 75. Ao capturar um Mimikyu, descarte todos os seus Pikachus.
 76. No campo de batalha, evite a estrela de neutrons.
+77. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
