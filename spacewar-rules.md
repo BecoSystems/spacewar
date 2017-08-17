@@ -94,3 +94,4 @@
 92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
 93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
+95. O piloto que der uma volta inteira na galaxia andromeda em menos de 12 parsecs ganha um escudo que reverte o proximo ataque contra quem o atacou
