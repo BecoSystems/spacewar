@@ -94,3 +94,5 @@
 92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
 93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
+95. Para cada nave destruida, dobre a sua força de ataque.
+
