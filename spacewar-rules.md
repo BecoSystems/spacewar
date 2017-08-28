@@ -94,5 +94,5 @@
 92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
 93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
-95. O uso da velocidade da luz só é permitida após destruir 3 naves inimigas.
-
+95. Quem conseguir a armadura do Homem de Ferro, fica isento de qualquer ataque por 10 segundos.
+96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
