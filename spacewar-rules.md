@@ -95,3 +95,6 @@
 93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
 95. Caso o Zen-Oh Sama apareça, não o irrite. Pois, do contrário, seu universo será destruído.
+95. Quem conseguir a armadura do Homem de Ferro, fica isento de qualquer ataque por 10 segundos.
+96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
+97. Caso o Zen-Oh Sama apareça, não o irrite. Pois, do contrário, seu universo será destruído.
