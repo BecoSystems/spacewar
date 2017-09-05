@@ -98,3 +98,4 @@
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
 98. Se o celular do piloto descarregar, o jogador perde pontos.
+99. Se a glados estiver em sua espaçonave descubra que o bolo não é uma mentira, receba + 10 de inteligência e + 20 de insanidade.
