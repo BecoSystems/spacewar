@@ -97,4 +97,5 @@
 95. Quem conseguir a armadura do Homem de Ferro, fica isento de qualquer ataque por 10 segundos.
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
-98. Nas próximas batalhas, você só poderá atacar com memes.
+98. Se o celular do piloto descarregar, o jogador perde pontos.
+99. Nas próximas batalhas, você só poderá atacar com memes. 
