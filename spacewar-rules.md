@@ -98,4 +98,3 @@
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
 98. Se o celular do piloto descarregar, o jogador perde pontos.
-99. O primeiro que conseguir matar o dragao ganha a oportunidade de colocar o nome no calice de fogo.
