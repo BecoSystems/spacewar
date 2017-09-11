@@ -98,4 +98,6 @@
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
 98. Se o celular do piloto descarregar, o jogador perde pontos.
-99. A cada 10 flexoes sua forca aumenta em 10 porcento.
+99. Caso o capitão da nave morra, vote no Yopresidente.
+100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+101. O piloto que cometer qualquer infração de transito aeroespacial, será banido permanentemente da galáxia.
