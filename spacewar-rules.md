@@ -100,3 +100,4 @@
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+101. Caso você encontre o Homem-Aranha, pegue o lançador de teia e use-o para imobilizar seus inimigos.
