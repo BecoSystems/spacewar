@@ -98,4 +98,6 @@
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
 98. Se o celular do piloto descarregar, o jogador perde pontos.
-99. Ignore a regra de numero 78 caso possua um sabre de luz verde.
+99. Caso o capitão da nave morra, vote no Yopresidente.
+100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+101. Caso seja visto pelo olho de Sauron, entre em velocidade de dobra em até 5 segundos, ou perca o jogo.
