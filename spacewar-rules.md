@@ -94,9 +94,11 @@
 92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
 93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
+95. Caso o Zen-Oh Sama apareça, não o irrite. Pois, do contrário, seu universo será destruído.
 95. Quem conseguir a armadura do Homem de Ferro, fica isento de qualquer ataque por 10 segundos.
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
 97. O piloto que der uma volta inteira na galáxia Andromeda em menos de 12 parsecs ganha um escudo que reverte o próximo ataque contra quem o atacou.
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+101. Caso o Zen-Oh Sama apareça, não o irrite. Pois, do contrário, seu universo será destruído.
