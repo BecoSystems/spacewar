@@ -60,22 +60,30 @@ CC = gcc
 # Travis for c: Programa em C
 travis :
 	# modified wrong file
-	git diff --cached --exit-code -- git-help.md 2>&1 1>/dev/null || exit 1
-	git diff --cached --exit-code -- LICENSE 2>&1 1>/dev/null || exit 1
-	git diff --cached --exit-code -- makefile 2>&1 1>/dev/null || exit 1
-	git diff --cached --exit-code -- README.md 2>&1 1>/dev/null || exit 1
+	git diff HEAD^ HEAD --exit-code -- git-help.md 2>&1 1>/dev/null || exit 1
+	git diff HEAD^ HEAD --exit-code -- LICENSE 2>&1 1>/dev/null || exit 1
+	git diff HEAD^ HEAD --exit-code -- makefile 2>&1 1>/dev/null || exit 1
+	git diff HEAD^ HEAD --exit-code -- README.md 2>&1 1>/dev/null || exit 1
+	#git diff --cached --exit-code -- git-help.md 2>&1 1>/dev/null || exit 1
+	#git diff --cached --exit-code -- LICENSE 2>&1 1>/dev/null || exit 1
+	#git diff --cached --exit-code -- makefile 2>&1 1>/dev/null || exit 1
+	#git diff --cached --exit-code -- README.md 2>&1 1>/dev/null || exit 1
 	# didn't modify the rules file
-	! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || exit 1
+	! git diff HEAD^ HEAD --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || exit 1
+	#! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || exit 1
 	# modified wrong lines
 	@if [[ $(shell git diff HEAD^ HEAD -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
 	#@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
 	# number is incorrect
-	let LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
-	let LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
+	let LLA=$$(git diff HEAD^ HEAD -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
+	let LLB=$$(git diff HEAD^ HEAD -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
+	#let LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
+	#let LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
 	let LLA=$$(( $${LLA} + 1 ))
 	if [[ $${LLA} != $${LLB} ]] ; then exit 1 ; fi
 	# edited the same rule twice
-	if [[ "$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | cut -d. -f2)" == "$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d. -f2)" ]] ; then exit 1 ; fi
+	if [[ "$$(git diff HEAD^ HEAD -- spacewar-rules.md | tail -n2 | head -n1 | cut -d. -f2)" == "$$(git diff HEAD^ HEAD -- spacewar-rules.md | tail -n1 | cut -d. -f2)" ]] ; then exit 1 ; fi
+	#if [[ "$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | cut -d. -f2)" == "$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d. -f2)" ]] ; then exit 1 ; fi
 
 nomatch :
 	@echo 'makefile error: no rules for the given goal(s)' $(warning nomatch)
