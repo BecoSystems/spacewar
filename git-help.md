@@ -16,3 +16,7 @@
 
 ## Travis test
 
+### Modificando o arquivo correto
+
+    * Apenas o arquivo spacewar-rules.md deve ser modificado
+
