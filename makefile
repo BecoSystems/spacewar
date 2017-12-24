@@ -67,7 +67,8 @@ travis :
 	# didn't modify the rules file
 	! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || exit 1
 	# modified wrong lines
-	@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
+	@if [[ $(shell git diff HEAD^ HEAD -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
+	#@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
 	# number is incorrect
 	let LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
 	let LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
