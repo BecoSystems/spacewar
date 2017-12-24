@@ -58,64 +58,26 @@ VERSION = "\"$(MAJOR).$(MINOR).$(BUILD)\""
 CC = gcc
 
 # Travis for c: Programa em C
-travis : 
-	git diff --cached --exit-code -- git-help.md 2>&1 1>/dev/null || false
-	git diff --cached --exit-code -- LICENSE 2>&1 1>/dev/null || false
-	git diff --cached --exit-code -- makefile 2>&1 1>/dev/null || false
-	git diff --cached --exit-code -- README.md 2>&1 1>/dev/null || false
-	! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || false
-	@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n2 | grep -c "+") != 1 ]] ; then false ; fi
-	LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
-	LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
-	LLA=$$(( $${LLA} + 1 ))
-	if [[ $${LLA} != $${LLB} ]] ; then false ; fi
-
-
-# override built-in rules for mathing everything (exactly the same rule as %.x above)
-% : %.c $(OBJ) $(SRC)
-	-$(CC) $(CFLAGS) $(CPPFLAGS) $(LDLIBS) $^ -o $@ 2>&1 | tee errors.err
-	@echo $@ version $(VERSION) > VERSION
-ifeq "$(CCCOLOR)" "always"
-	@sed -i -r "s/\x1B\[(([0-9]+)(;[0-9]+)*)?[m,K,H,f,J]//g" errors.err
-endif
-	-@[ ! -s errors.err ] && echo $@ version $(VERSION) > VERSION
+travis :
+	# modified wrong file
+	git diff --cached --exit-code -- git-help.md 2>&1 1>/dev/null || exit 1
+	git diff --cached --exit-code -- LICENSE 2>&1 1>/dev/null || exit 1
+	git diff --cached --exit-code -- makefile 2>&1 1>/dev/null || exit 1
+	git diff --cached --exit-code -- README.md 2>&1 1>/dev/null || exit 1
+	# didn't modify the rules file
+	! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || exit 1
+	# modified wrong lines
+	@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n+6 | grep -c "+") != 1 ]] ; then exit 1 ; fi
+	# number is incorrect
+	let LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
+	let LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
+	let LLA=$$(( $${LLA} + 1 ))
+	if [[ $${LLA} != $${LLB} ]] ; then exit 1 ; fi
+	# edited the same rule twice
+	if [[ "$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | cut -d. -f2)" == "$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d. -f2)" ]] ; then exit 1 ; fi
 
 nomatch :
 	@echo 'makefile error: no rules for the given goal(s)' $(warning nomatch)
-
-# CUIDADO! Apaga tudo que o makefile pode criar.
-wipe :
-	rm -f *.x *.so *.o errors.err tags a.out
-
-# Apaga temporarios desnecessarios.
-clean :
-	rm -f *.o errors.err
-
-copy :
-	-cp $(PRG).c ../trabalhos 			# c source code
-	-cp $(PRG).h ../trabalhos 			# c library source code
-	-cp $(PRG).x ../trabalhos			# binary from c source code
-	-cp $(PRG).gpt ../trabalhos			# portugol source code
-	-cp $(PRG).gpt.x ../trabalhos		# binary from portugol source code
-	-cp $(PRG).bf ../trabalhos			# brainforce source code
-	-cp $(PRG).bf.x ../trabalhos		# binary from brainforce source code
-	-cp $(PRG).cpl.x ../trabalhos		# binary from c code with some prolog predicates linked to it
-	-cp $(PRG).pl ../trabalhos			# prolog source code
-	-cp $(PRG).pl.x ../trabalhos		# binary from prolog source code
-	-cp $(PRG).so ../trabalhos			# shared library object from c source code
-	-cp $(PRG).pl.so ../trabalhos		# c library object with some functions that may be called by a prolog program
-
-# Gera arquivo de indice tags com funcoes de todos fontes em C
-tags :
-	ctags -R
-	ctags -R -x | less -F
-
-# Gera um novo peN
-euler :
-	@cp -i peN.c pe$(N).c
-	@sed -i 's/PEN.c   /$(PENAME)/' pe$(N).c
-	@sed -i 's/PEN pe ## N/PEN pe ## $(N)/' pe$(N).c
-	@echo "pe$(N).c"
 
 #* ------------------------------------------------------------------- *
 #* makefile config for Vim modeline                                    *
