@@ -65,9 +65,9 @@ travis :
 	git diff --cached --exit-code -- README.md 2>&1 1>/dev/null || false
 	! git diff --cached --exit-code -- spacewar-rules.md 2>&1 1>/dev/null || false
 	@if [[ $(shell git diff --cached -- spacewar-rules.md | tail -n2 | grep -c "+") != 1 ]] ; then false ; fi
-	let LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
-	let LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
-	let LLA=$$(( $${LLA} + 1 ))
+	LLA=$$(git diff --cached -- spacewar-rules.md | tail -n2 | head -n1 | tr -d " " | cut -d "." -f1)
+	LLB=$$(git diff --cached -- spacewar-rules.md | tail -n1 | cut -d "." -f1)
+	LLA=$$(( $${LLA} + 1 ))
 	if [[ $${LLA} != $${LLB} ]] ; then false ; fi
 
 

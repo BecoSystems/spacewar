@@ -100,3 +100,4 @@
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+101. Travis test
