@@ -106,3 +106,5 @@
 104. Travis test 4 -- drbeco forked
 105. Travis test 5 -- drbeco forked
 106. Travis test 6 -- drbeco forked
+107. Travis test 7 -- drbeco forked
+108. Travis test 8 -- drbeco forked
