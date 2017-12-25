@@ -16,13 +16,13 @@
 
 language: generic
 
-#sudo: false
+sudo: false
 
 os: linux
 
 #fail_fast: true
 
-#install: true
+install: true
 
 #install: sudo apt-get install clang gcc
 
