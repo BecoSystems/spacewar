@@ -43,6 +43,6 @@ script:
     - make ruletwice
 
 notifications:
-    irc: "chat.freenode.net#contauto"
     email: false
+    irc: "chat.freenode.net#contauto"
 
