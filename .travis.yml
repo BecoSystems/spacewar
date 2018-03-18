@@ -1,0 +1,48 @@
+# Travis build lifecycle:
+#
+#  1. OPTIONAL Install apt addons
+#  2. OPTIONAL Install cache components
+#  3. before_install
+#  4. install
+#  5. before_script
+#  6. script
+#  7. OPTIONAL before_cache (for cleaning up cache)
+#  8. after_success or after_failure
+#  9. OPTIONAL before_deploy
+# 10. OPTIONAL deploy
+# 11. OPTIONAL after_deploy
+# 12. after_script
+
+
+language: generic
+
+sudo: false
+
+os: linux
+
+#fail_fast: true
+
+install: true
+
+#install: sudo apt-get install clang gcc
+
+# Multiple steps
+# install:
+#  - bundle install --path vendor/bundle
+#  - npm install
+
+#compiler:
+#    - clang
+#    - gcc
+
+script: 
+    - make wrongfiles
+    - make changerules
+    - make wronglines
+    - make rulenumber
+    - make ruletwice
+
+notifications:
+    email: false
+    irc: "chat.freenode.net#contauto"
+
