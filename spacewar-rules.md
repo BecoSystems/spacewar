@@ -109,4 +109,5 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-110. Em caso de duvida sobre que inimigo atacar, leia o TODO.txt.
+110. 
+111. Em caso de duvida de que inimigo atacar, leia o TODO.txt.
