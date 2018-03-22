@@ -110,3 +110,4 @@
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Cada quest do teletubie completa voce invoca o exodia e perde o jogo depois
+111. A cada conflito tome uma dose. Senao, tome duas.
