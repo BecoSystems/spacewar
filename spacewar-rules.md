@@ -111,7 +111,7 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. O vencedor da corrida mortal terá direito a usar a ultra capa de invisibilidade durante 3 horas de batalha.
-
+112. O jogador que for mordido pelo zumbi deverá tomar a porção da cura.
       
 
 
