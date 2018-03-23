@@ -111,3 +111,4 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+112. Se o zumbi morder um jogador, este último deverá tomar a porção da cura.
