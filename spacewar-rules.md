@@ -110,3 +110,4 @@
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
