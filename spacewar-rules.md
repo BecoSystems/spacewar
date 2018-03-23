@@ -100,7 +100,7 @@
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
-101. Travis test
+101. Travis test 
 102. Travis test 2
 103. Travis test 3
 104. Travis test 4 -- drbeco forked
@@ -110,3 +110,8 @@
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
+111. O vencedor da corrida mortal terá direito a usar a ultra capa de invisibilidade durante 3 horas de batalha.
+
+      
+
+
