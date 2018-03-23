@@ -109,4 +109,6 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-110. Pare no bar do fim do mundo para tomar uma cerveja romulana, antes de ir pra guerra.
+110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+112. Pare no bar do fim do mundo para tomar uma cerveja romulana, antes de ir pra guerra.
