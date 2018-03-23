@@ -108,5 +108,6 @@
 106. Travis test 6 -- drbeco forked
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
-109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-voce so poderá respirar no espaço se o nautico for campeao de alguma coisa.
+109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD
+110. Se a nave não decolcar, vá a pé
+111. Se o nautico for campeao,entao chovera acido no espaco.
