@@ -111,3 +111,4 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Atrapalhe a visão do oponente usando a vaquinha cowsay, você ganhará tempo com isso.
+112. Atrapalhe a visão do oponente usando a vaquinha cowsay.
