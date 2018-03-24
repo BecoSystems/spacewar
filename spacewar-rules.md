@@ -109,4 +109,6 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-Caso o Coringa apareça e te ataque, você pode pedir a ajudar ao Batman.
+110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+     Se o Coringa aparecer, o jogador poderá solicitar a ajuda do Batman, em troca de alguns pontos.
