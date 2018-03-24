@@ -111,4 +111,5 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
-112. Atrapalhe a visão do oponente usando a vaquinha cowsay, você ganha mais tempo de jogo.
+112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. AO encontrar um açaí, coma e você terá mais força para atacar os zumbis.
