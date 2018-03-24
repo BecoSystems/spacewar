@@ -111,4 +111,5 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
-112. Se o Coringa aparecer, o jogador poderá solicitar a ajuda do Batman, em troca de alguns pontos.
+112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. Caso encontre o Harry Potter, você terá que ajudá-lo na luta contra Voldemort.  
