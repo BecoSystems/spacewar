@@ -112,3 +112,4 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. Caso encontre o Harry Potter, você terá que ajudá-lo na luta contra Voldemort.  
