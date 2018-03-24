@@ -111,4 +111,5 @@
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
-112. Se comecar a chuver meteoros, abra o guarda chuva.
+112. Se comecar a chuver meteoros, abra o guarda chuva
+113. se vc entrar em dobra pra fugir de uma x1 no rio desca da nava e lute com o sabre de luz nos asteroides
