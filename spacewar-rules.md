@@ -112,4 +112,5 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva
-113. se vc entrar em dobra pra fugir de uma x1 no rio desca da nava e lute com o sabre de luz nos asteroides
+113. Se o zumbi morder voce, tome a poção de cura.
+114. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias
