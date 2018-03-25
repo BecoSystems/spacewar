@@ -113,4 +113,6 @@
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
-114. Essa regra aumenta uma regra no jogo.
+114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+115. Se o homem aranha aparecer, bata continencia.
+116. Essa regra aumenta uma regra no jogo.
