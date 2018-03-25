@@ -117,4 +117,5 @@
 115. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 116. Se o homem aranha aparecer, bata continencia.
 117. Caso freeza apareca, jogue uma genki dama nele.
-118. Se o jogador vencer satan goss, ganhará a Metaltex. 
+118. Se o jogador vencer satan goss, ganhará a Metaltex.
+119. Ao passar da contraterra, lance o Travis na zona morta.
