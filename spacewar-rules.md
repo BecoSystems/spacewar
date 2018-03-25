@@ -113,3 +113,4 @@
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
+114. Se as naves forem de Wakanda,acione os escudos de vibranium.
