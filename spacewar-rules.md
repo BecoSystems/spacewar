@@ -114,3 +114,4 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Se as naves forem de Wakanda,acione os escudos de vibranium.
+115. Caso o jogador seja atingido e sua nave perca as condições de batalha, deverá acessar Daileon, usar a Metaltex e as naves de Ejinium. 
