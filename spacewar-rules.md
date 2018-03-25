@@ -115,4 +115,5 @@
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
-116. Essa regra aumenta uma regra no jogo.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Essa regra nao deu conflito.
