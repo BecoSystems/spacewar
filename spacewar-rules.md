@@ -109,9 +109,17 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
+<<<<<<< HEAD
+110. Se a nave não decolar, vá a pé 
+111. Em caso de duvida de que inimigo atacar, leia o TODO.txt.
+=======
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
+<<<<<<< HEAD
+114. Caso tenha duvida sobre que inimigo atacar, leia o TODO.txt.
+=======
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
+116. Se tiver duvida de que inimigo atacar, leia o TODO.txt.
