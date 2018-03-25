@@ -114,4 +114,7 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Se as naves forem de Wakanda,acione os escudos de vibranium.
-115. Caso o jogador seja atingido e sua nave perca as condições de batalha, deverá acessar Daileon, usar a Metaltex e as naves de Ejinium. 
+115. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+116. Se o homem aranha aparecer, bata continencia.
+117. Caso freeza apareca, jogue uma genki dama nele.
+118.Caso o jogador seja atingido e sua nave perca as condições de batalha,     deverá acessar Daileon, usar a Metaltex e as naves de Ejinium.  
