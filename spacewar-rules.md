@@ -115,4 +115,6 @@
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia
-116. Se o Thanos aparecer com a manopla do infinito, metade dos jogadores perde metade de suas vidas.
+115. Se o homem aranha aparecer, bata continencia.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Se o piloto entrar em um buraco de minhoca, ele volta para o início.
