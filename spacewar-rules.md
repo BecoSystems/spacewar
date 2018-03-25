@@ -114,4 +114,5 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
-115. Se voce somar mais de 100 pontos ganhe a mulher maravilha como companheira durante os proximos 2 desafios.
+115. Se o homem aranha aparecer, bata continencia.
+116. Caso voce nao tenha feito pontos na rodada anterior, ejete um dos seus tanques de combustível.
