@@ -102,3 +102,11 @@
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a internet cair, leia um livro.
+110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+115. Se o homem aranha aparecer, bata continencia.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. A cada mensagem do whatsapp, cante uma música.
