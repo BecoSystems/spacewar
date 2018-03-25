@@ -114,5 +114,5 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
-115. Se tiver transito no espaço,vocé poderá ativar o modo Hot Wheels e passará por cima dos carros.
-
+115. Se o homem aranha aparecer, bata continencia.
+116. Se encontrar o Ronaldinho Gaúcho no espaço,automaticamente você ganhará o poder do dibre.
