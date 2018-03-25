@@ -115,4 +115,5 @@
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
-116. Se encontrar o Ronaldinho Gaúcho no espaço,automaticamente você ganhará o poder do dibre.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Caso encontre Ronaldinho Gaúcho,você ganhará o poder do dibre.
