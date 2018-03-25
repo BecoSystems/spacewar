@@ -113,6 +113,8 @@
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
-114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
-115. Se o homem aranha aparecer, bata continencia.
-116. Caso freeza apareca, jogue uma genki dama nele.
+114. Se as naves forem de Wakanda,acione os escudos de vibranium.
+115. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+116. Se o homem aranha aparecer, bata continencia.
+117. Caso freeza apareca, jogue uma genki dama nele.
+118. Se o jogador vencer satan goss, ganhará a Metaltex. 
