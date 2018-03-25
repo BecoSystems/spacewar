@@ -113,4 +113,4 @@
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
-114. Se a policía federal pegar você vindo da china, seus itens ficam 3 meses em Curitiba se  os Correios não os extraviarem.
+e a policía federal pegar você vindo da china, seus itens ficam 3 meses em Curitiba se  os Correios não os extraviarem.
