@@ -112,8 +112,5 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
-
-114. Se o nautico for campeao,chovera acido no espaco.
-
-
-
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Quando houver classico no espaco,voce podera usar o escudo anti-assalto e o arrastao nao lhe afetará.
