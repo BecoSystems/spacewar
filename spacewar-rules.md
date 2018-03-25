@@ -109,9 +109,8 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-110. Cada quest do teletubie completa voce invoca o exodia e perde o jogo depois
-111. A cada conflito tome uma dose. Senao, tome duas.
-
-
-
-115. Essa regra aumenta uma regra no jogo.
+110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Essa regra aumenta uma regra no jogo.
