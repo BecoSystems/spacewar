@@ -112,4 +112,4 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
-113. Quando a força da gravidade deixar de existir, você será capaz de voar.
+113. Se o zumbi morde voce, tome a poção de cura.
