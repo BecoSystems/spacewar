@@ -112,4 +112,5 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
-113. AO encontrar um açaí, coma e você terá mais força para atacar os zumbis.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
