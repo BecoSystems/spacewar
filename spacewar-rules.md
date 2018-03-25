@@ -112,4 +112,5 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
-113. Se por acaso você sonhar enquanto dorme, acorde imediatamente.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Ao amanhecer, deite no chão.
