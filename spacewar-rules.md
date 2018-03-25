@@ -114,4 +114,5 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
-115. Se encontrar o Acampamento Meio-Sangue, você poderá ter ajuda do Percy Jackson ou Annabeth Chase. 
+115. Se o homem aranha aparecer, bata continencia.
+116. Se você conseguir derrotar o ciclope Polifemo, você irá adquirir o velocino de ouro.
