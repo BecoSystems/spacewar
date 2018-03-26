@@ -116,4 +116,5 @@
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
-117. Ao chegar no nível 17 do jogo, você pode usar o ataque kumehameha.
+117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
+118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
