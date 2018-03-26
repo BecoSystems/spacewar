@@ -108,6 +108,8 @@
 106. Travis test 6 -- drbeco forked
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
+109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD
+110. Caso o jogador fique mais de 10 minutos inativo, uma pokebola o sequestra.
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
@@ -118,3 +120,4 @@
 116. Caso freeza apareca, jogue uma genki dama nele.
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
+119. Caso a temperatura abaixe drasticamente, o rei da noite e seu exército será invocado.
