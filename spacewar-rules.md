@@ -118,4 +118,4 @@
 116. Se o homem aranha aparecer, bata continencia.
 117. Caso freeza apareca, jogue uma genki dama nele.
 118. Se o jogador vencer satan goss, ganhará a Metaltex.
-119. Se os cruzadores intergaláticos cruzarem seu caminho, use o comando "t.r.o.i.a", e destrua os tímpanos dos inimigos.
+119. Se o jogador usar raios condensadores para destruir cruzadores, ganhará redução de danos.
