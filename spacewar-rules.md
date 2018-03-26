@@ -117,4 +117,4 @@
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
-118. Se estiver a bordo do teco-teco 4000, você está imune a pedágios espaciais.
+118. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
