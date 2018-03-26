@@ -112,4 +112,9 @@
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
-113. O jogador não pode guardar uma capivara no porta-luvas da sua nave.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+115. Se o homem aranha aparecer, bata continencia.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
+118. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
