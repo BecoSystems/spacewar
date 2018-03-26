@@ -122,4 +122,8 @@
 =======
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
+<<<<<<< HEAD
 116. Se tiver duvida de que inimigo atacar, leia o TODO.txt.
+=======
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
