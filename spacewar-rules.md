@@ -119,3 +119,4 @@
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
+118. Caso o jogador grite "Dracarys!", um dragão é invocado e queima toda a galaxia.
