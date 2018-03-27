@@ -119,4 +119,5 @@
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
-120. Caso Homer Simpson apareca, mate-o.
+120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
+121. Caso Homer Simpson apareca, mate-o.
