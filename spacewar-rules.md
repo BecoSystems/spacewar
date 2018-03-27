@@ -121,3 +121,4 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Se encontrar a Torre Negra, chame Roland de Gilead.
+122. Se encontrar o homem de preto, chame o pistoleiro.
