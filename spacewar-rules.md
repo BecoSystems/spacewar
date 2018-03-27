@@ -100,15 +100,8 @@
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
-101. Travis test
-102. Travis test 2
-103. Travis test 3
-104. Travis test 4 -- drbeco forked
-105. Travis test 5 -- drbeco forked
-106. Travis test 6 -- drbeco forked
-107. Travis test 7 -- drbeco forked
-108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
+110. Se a internet cair, leia um livro.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
@@ -116,7 +109,10 @@
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
+117. A cada mensagem do whatsapp, cante uma música.
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
+121. Se estiver muito cansado, durma um pouco.
+122. Caso fique com fome, coma um kitkat.
