@@ -114,7 +114,9 @@
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
-115. Se o homem aranha aparecer, bata continencia
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
-117. Se o piloto entrar em um buraco de minhoca, ele volta para o início.
+117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
+118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
+119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
+120. Se o Gavião Arqueiro aparecer, os jogadores devem saudar ele.
