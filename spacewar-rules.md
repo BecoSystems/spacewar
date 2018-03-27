@@ -121,3 +121,4 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Cada milha espacial que for percorrida, retornará ao jogador um vale no posto do Extra.
+122. Cabe ao jogador que primeiro atingir a Torre Negra, revelar o segredo de pako.
