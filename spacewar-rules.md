@@ -122,3 +122,4 @@
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Se encontrar a Torre Negra, chame Roland de Gilead.
 122. Se encontrar o homem de preto, chame o pistoleiro.
+123. Se encontrar estiver na tempetade do século, verá linoge.
