@@ -120,4 +120,4 @@
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
-122. Cada milha espacial que for percorrida, retornará ao jgador um vale no posto do Extra.
+122. Cada milha espacial que for percorrida, retornará ao jogador um vale no posto do Extra.
