@@ -120,5 +120,3 @@
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Se o jogador usar raios condensadores para destruir cruzadores, ganhará redução de danos.
-121. Caso o jogador desista de lutar, deverá tomar duas gotas de soma. 
-
