@@ -121,3 +121,4 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Caso o jogador desista do jogo, deverá tomar duas gotas de soma.
+122. Cada milha espacial que for percorrida, retornará ao jgador um vale no posto do Extra.
