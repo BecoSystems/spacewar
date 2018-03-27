@@ -115,4 +115,4 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Se estiver muito cansado, durma um pouco.
-122. Caso fique com fome, coma uma barra de cereal.
+122. Caso fique com fome, coma um kitkat.
