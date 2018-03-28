@@ -124,3 +124,4 @@
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
+125. Caso encontre os portais da Torre Negra, verá o homem de preto.
