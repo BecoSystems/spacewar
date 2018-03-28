@@ -124,3 +124,4 @@
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Caso chegue à terra média, encontre o homem de preto.
+125. Seu objetivo e encontrar max steel.
