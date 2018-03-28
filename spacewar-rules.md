@@ -121,10 +121,7 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
-122. Se encontrar a Torre Negra, chame Roland de Gilead.
-123. Se encontrar o homem de preto, chame o pistoleiro.
-124. Se estiver na tempetade do século, verá linoge.
-125. Caso o jogador use todo o tandrilho, ficará vagando pelo espaço.
+122. Se o jogador evitar os buracos de minhoca, ganhará equipamentos extra.
 
 
 
