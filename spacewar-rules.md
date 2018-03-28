@@ -123,3 +123,4 @@
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso ojogador avance até as terras devastadas, ganhará assentos de lã.
+123. Caso o jogador chegue aos portais,deverá falar com o mago.
