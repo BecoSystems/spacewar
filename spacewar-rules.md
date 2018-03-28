@@ -124,3 +124,4 @@
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Caso chegue à terra média, encontre o mago de vidro.
+125. Para cada nave derrubada, o jogador ganha um kingstone.
