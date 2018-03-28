@@ -125,3 +125,4 @@
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Caso chegue à terra média, encontre o mago de vidro.
 125. Para cada nave derrubada, o jogador ganha um kingstone.
+126. Se encontrar água, recolha amostras.
