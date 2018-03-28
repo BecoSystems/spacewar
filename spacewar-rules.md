@@ -127,3 +127,4 @@
 125. Para cada nave derrubada, o jogador ganha um kingstone.
 126. Se encontrar água, recolha amostras.
 127. Se o jogador encontrar pako, revelá o seu segredo.
+128. Caso o jogador não encontre pako, deve combater o clã dos ninjas feiticeiros.
