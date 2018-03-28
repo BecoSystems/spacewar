@@ -109,4 +109,21 @@
 107. Travis test 7 -- drbeco forked
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-110. Um Vogon acabou de atacar voce. Nao entre em panico. Va para a sua nave e chore ou lute ate a morte.
+<<<<<<< HEAD
+=======
+110. Se a nave não decolcar, vá a pé
+111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+112. Se comecar a chuver meteoros, abra o guarda chuva.
+113. Se o zumbi morder voce, tome a poção de cura.
+114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
+115. Se o homem aranha aparecer, bata continencia.
+116. Caso freeza apareca, jogue uma genki dama nele.
+117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
+118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
+119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
+120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
+121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
+>>>>>>> 5d68123dd069169b843e3e4e31bb17ebd0dab74e
+122. Um Vogon acabou de atacar voce. Nao entre em panico. Va para a sua nave e chore ou lute ate a morte.
+
+
