@@ -121,7 +121,9 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
+122. Um Vogon acabou de atacar voce. Nao entre em panico. Va para a sua nave e chore ou lute ate a morte.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
+126. Caso voce passe por uma chuva de meteoros, use o seu guarva-chuva.
