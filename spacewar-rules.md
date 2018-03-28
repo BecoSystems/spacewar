@@ -121,8 +121,5 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
-122. Se seu exército for dominado, use a pílula de polegarina.
-123. O objetivo das cercas invisíveis e delimitar os espaços escuros habitados por Goldar. 
-
-
-
+122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
+123. O objetivo das cercas invisíveis e delimitar os espaços escuros habitados por Goldar.
