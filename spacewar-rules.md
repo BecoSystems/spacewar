@@ -126,3 +126,4 @@
 124. Caso chegue à terra média, encontre o mago de vidro.
 125. Para cada nave derrubada, o jogador ganha um kingstone.
 126. Se encontrar água, recolha amostras.
+127. Se o jogador encontrar pako, revelá o seu segredo.
