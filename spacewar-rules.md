@@ -122,4 +122,5 @@
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
-123. Caso Chuck Norris apareca, cometa suicídio em sinal de respeito.
+123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
+124. Caso Homer Simpson apareça, mate-o.
