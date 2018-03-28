@@ -123,6 +123,5 @@
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
-124. Caso chegue à terra média, encontre o homem de preto.
-125. Seu objetivo e encontrar max steel.
-126. Seu objetivo é encontrar o gato felix.
+124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
+125. Seu objetivo é coseguir enviar uma regra.
