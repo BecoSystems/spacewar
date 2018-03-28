@@ -123,8 +123,4 @@
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
-124. Caso chegue à terra média, encontre o mago de vidro.
-125. Para cada nave derrubada, o jogador ganha um kingstone.
-126. Se encontrar água, recolha amostras.
-127. Se o jogador encontrar pako, revelá o seu segredo.
-128. Caso o jogador não encontre pako, deve combater o clã dos ninjas feiticeiros.
+124. Caso chegue à terra média, encontre o homem de preto.
