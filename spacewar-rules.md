@@ -122,4 +122,4 @@
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
-123. O objetivo das cercas invisíveis e delimitar os espaços escuros habitados por Goldar.
+123. Caso ojogador avance até as terras devastadas, ganhará assentos de lã.
