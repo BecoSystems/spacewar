@@ -121,7 +121,7 @@
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais. 
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
-122. Se o jogador entrar nos buracos de minhoca, ganhará equipamentos extra.
+122. Só os moradores das terras devastadas atingirão os portais da Torre Negra.
 
 
 
