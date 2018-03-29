@@ -126,4 +126,5 @@
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
-127. O jogador deve reprimir revoltas em planetas aliados.
+127. Quando você está com fome, automaticamente aparecerá um drive-thru.
+128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
