@@ -126,3 +126,4 @@
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
+127. Se você passar entre os lasers, ganha um ponto, mas se bater no chão ou em algum obstáculo perde e fim do jogo.
