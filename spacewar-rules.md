@@ -126,4 +126,5 @@
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
-127. Toda partida deverá ser uma melhor de três batalhas.
+127. Quando você está com fome, automaticamente aparecerá um drive-thru.
+128. Caso você estiver com menos de 10% de vida, poderá chamar um aliado da resistência.
