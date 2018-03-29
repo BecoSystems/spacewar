@@ -127,3 +127,4 @@
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
+128. Caso compre um Space Lanche Feliz no SpaceDonald's, você ganhará uma miniatura do Chewbacca.
