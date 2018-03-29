@@ -124,4 +124,6 @@
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
-125. Se vocÊ bater em um poste, exploda a nave e saia correndo.
+125. Ao avistar os marcianos, use a arma supersônica.
+126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
+127. Caso passe o feriado em casa, assista Netflix.
