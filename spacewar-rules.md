@@ -125,4 +125,5 @@
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
-126. Os escudos das naves brancas são de adamantium, os escudos das naves pretas são de ejinium.
+126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
+127. O jogador deve reprimir revoltas em planetas aliados.
