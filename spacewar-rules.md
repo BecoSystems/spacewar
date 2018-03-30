@@ -126,4 +126,6 @@
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
-127. Em caso de feriado, falte a batalha e deixe a luta pra segunda feira.
+127. Quando você está com fome, automaticamente aparecerá um drive-thru.
+128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
+129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
