@@ -128,3 +128,4 @@
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
+129. O jogador poderá tomar para sua nave, as armas das naves derrotadas.
