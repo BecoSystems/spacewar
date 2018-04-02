@@ -128,4 +128,5 @@
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
-129. Não entre na toca do timbu espacial, perigo de morte.
+129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
+130. Se você entrar no buraco negro numero 32, encontrará o mostro do lago ness.
