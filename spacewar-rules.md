@@ -124,12 +124,9 @@
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
 124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
-<<<<<<< HEAD
-125. Libere o canal de exaustão, senão sua nave irá explodir.
-=======
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
 129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
->>>>>>> upstream/master
+130. Libere o canal de exaustão, senão sua nave irá explodir.
