@@ -127,4 +127,7 @@
 125. Ao avistar os marcianos, use a arma supersônica.
 126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
-128. Caso nao tenha trabalho no feriado, descanse.
+128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
+129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
+130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
+131. Caso sua nave seja atingida, concerte-a com fita isolante.
