@@ -129,4 +129,5 @@
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
 129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
-130. Pare no bar do fim da terra para tomar uma cerveja romulana, antes de ir para a guerra.
+130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
+131. Pare no bar do fim da terra para tomar uma cerveja romulana, antes de ir para a guerra.
