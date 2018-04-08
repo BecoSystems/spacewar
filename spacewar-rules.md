@@ -131,3 +131,4 @@
 129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
 130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
+132. Caso encontre o Darth Vader, pergunte se ele é o seu pai.
