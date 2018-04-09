@@ -130,4 +130,5 @@
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
 129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
 130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
-131. Se tiver com matéria acumulada, passe a madrugada estudando.
+131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
+132. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina..
