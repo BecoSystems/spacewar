@@ -1,5 +1,6 @@
 # Regras da Guerra nas Estrelas
 
+
 1. Seu objetivo é destruir o adversário.
 2. Não é permitido phasers com mais de 15 Octawatts de potência.
 3. Quem acionar a velocidade de dobra intergaláctica durante a batalha terá 2 Zorgs metralhados.
@@ -133,3 +134,4 @@
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
+134. Se o Bob esponja aparecer o jogador deve abandonar sua nave.
