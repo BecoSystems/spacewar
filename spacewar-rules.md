@@ -44,4 +44,4 @@
 42. Quando destruir uma nave inimiga reportar a seus superiores.
 43. Caixas de Pandora não podem ser usadas quando o horário presente tem números primos.
 44. Se o freeza destruir a sua nova, volte para a nebulosa anterior.
-
+45. Se o Galactus destruir a sua nave , volte para a galáxia anterior.
