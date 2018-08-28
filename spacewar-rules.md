@@ -133,3 +133,4 @@
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
+134. Se você conseguir encontrar o mochileiro das galáxias e roubar a sua toalha, ficará invencível.
