@@ -134,3 +134,4 @@
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
+135. Quando você conseguir 100 pontos de lataria, sua nave ganha um boost de energia que permite que você vá até uma fase bônus que possui o item monitoria louca.
