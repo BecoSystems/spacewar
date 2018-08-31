@@ -136,3 +136,4 @@
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
 136. Snipers em Marte são permitidos.
+137. Se o inimigo estiver de costas o dano será multiplicado por quatro.
