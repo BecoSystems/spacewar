@@ -137,3 +137,4 @@
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
 136. Snipers em Marte são permitidos.
 137. Se o Thanos aparecer com a manopla, segurem o Petter Quill.
+138. Caso você mate cinco ET's wm 40 minutos, terá direito a reviver três jogadores.
