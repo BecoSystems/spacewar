@@ -138,3 +138,4 @@
 136. Snipers em Marte são permitidos.
 137. Se o Thanos aparecer com a manopla, segurem o Petter Quill.
 138. Se o inimigo receber um ataque por trás, então o dano será multiplicado por quatro.
+139. Caso você tente conviver em sociedade e batalhar ao mesmo tempo, morrerá.
