@@ -135,3 +135,4 @@
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
+136. Se você contrair HIV, é game over.
