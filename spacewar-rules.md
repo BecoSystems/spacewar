@@ -135,4 +135,8 @@
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
-136. Se você contrair HIV, é game over.
+136. Snipers em Marte são permitidos.
+137. Se o Thanos aparecer com a manopla, segurem o Petter Quill.
+138. Se o inimigo receber um ataque por trás, então o dano será multiplicado por quatro.
+139. Caso você tente conviver em sociedade e batalhar ao mesmo tempo, morrerá.
+140. Se você contrair HIV, é game over.
