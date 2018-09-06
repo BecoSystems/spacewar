@@ -140,3 +140,4 @@
 138. Se o inimigo receber um ataque por trás, então o dano será multiplicado por quatro.
 139. Caso você tente conviver em sociedade e batalhar ao mesmo tempo, morrerá.
 140. Se vc tiver mais 5000 comandos na nave hydra, saia da zona vermelha.
+141. Atire em todos os digimons do mau, se forem vermelhos.
