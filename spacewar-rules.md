@@ -139,3 +139,4 @@
 137. Se o Thanos aparecer com a manopla, segurem o Petter Quill.
 138. Se o inimigo receber um ataque por trás, então o dano será multiplicado por quatro.
 139. Caso você tente conviver em sociedade e batalhar ao mesmo tempo, morrerá.
+140. Para relaxar antes de ir para a guerra, va para o bar do fim da terra e tome uma cerveja romulana gelada.
