@@ -141,3 +141,4 @@
 139. Caso você tente conviver em sociedade e batalhar ao mesmo tempo, morrerá.
 140. Quando você conseguir 100 pontos de lataria, sua nave ganha um boost de energia que permite que você vá até uma fase bônus que possui o item monitoria louca.
 141. Se entrar no buraco negro delta, você será levado para o país das Maravilhas e encontrará o coelho branco que te dará ajuda.
+142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
