@@ -144,3 +144,4 @@
 142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
+145: Caso a presença do Harry seja solicitada, será necessario a espera de 30min ate a proxima solicitação.
