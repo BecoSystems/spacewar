@@ -144,3 +144,4 @@
 142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
+145. Caso Arthur Dent leia o Guia do Mochileiro das Galáxias com fome e frio, nada acontecerá porque ele só está lendo um livro.
