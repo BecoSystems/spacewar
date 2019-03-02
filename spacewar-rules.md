@@ -144,3 +144,5 @@
 142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
+145. Se o seu biscoito cair no chão,você tem até 5 segundos para pegá-lo.
+
