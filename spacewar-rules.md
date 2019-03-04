@@ -144,3 +144,4 @@
 142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
+145. Se inimigo usar sabre de luz, ativar sabre de luz, senão use arma laser.
