@@ -146,3 +146,5 @@
 144. Se Voldmort aparecer, chame Harry Potter.
 145. Se a temperatura do motor passar de 1000K é necessário aguardar 3 rodadas.
 146. Se seguir as dicas do mestre acerca das provas, passará com êxito por todas as fases do jogo.
+147. Se você conseguir ser aprovado na cadeira de lógica, você receberá um upgrade para a sua nave.
+
