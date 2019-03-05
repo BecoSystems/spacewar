@@ -145,3 +145,4 @@
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
 145. Se a temperatura do motor passar de 1000K é necessário aguardar 3 rodadas.
+146. Se inimigo usa sabre de luz, ativar sabre de luz, senão use arma laser.
