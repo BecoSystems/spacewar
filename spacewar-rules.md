@@ -145,4 +145,5 @@
 143. Se a cauda do charmander apagar então ele morre.
 144. Se Voldmort aparecer, chame Harry Potter.
 145. Se a temperatura do motor passar de 1000K é necessário aguardar 3 rodadas.
-146. Se parar em Júpter, ganhará uma recarga grátis de combustível para a sua nave.
+146. Se seguir as dicas do mestre acerca das provas, passará com êxito por todas as fases do jogo.
+147. Se parar em Júpiter, ganhará uma recarga grátis de combustível para a sua nave.
