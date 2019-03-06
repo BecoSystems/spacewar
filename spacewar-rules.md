@@ -143,5 +143,6 @@
 141. Se entrar no buraco negro delta, você será levado para o país das Maravilhas e encontrará o coelho branco que te dará ajuda.
 142. Woody pertence a Andy, não tente rouba-lo, pois criatividade vale mais.
 143. Se a cauda do charmander apagar então ele morre.
-144. Se Voldmort aparecer, chame Harry Potter.
-145. Se você ver dragões, você esta em game of thrones.
+144. Se Voldmort aparecer, chame Harry Potter
+145. Se a temperatura do motor passar de 1000K é necessário aguardar 3 rodadas.
+146. Se seguir as dicas do mestre acerca das provas, passará com êxito por todas as fases do jogo.
