@@ -148,4 +148,3 @@
 146. Se seguir as dicas do mestre acerca das provas, passará com êxito por todas as fases do jogo.
 147. Caso você leia um livro de Stephen Hawking, você ganhará 114 atributos de sabedoria universal.
 148. Quando ver o capitão diga "Akernaak".
-149. Olhar o universo deixa seu sentimento de esperança maior e aumenta sua força de vontade para continar jogando.
