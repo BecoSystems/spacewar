@@ -149,3 +149,4 @@
 147. Caso você leia um livro de Stephen Hawking, você ganhará 114 atributos de sabedoria universal.
 148. Quando ver o capitão diga "Akernaak".
 149. Olhar o Universo te enche de determinação.
+150. Quando estiver preocupado pule num pé só.
