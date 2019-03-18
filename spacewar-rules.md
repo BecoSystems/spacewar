@@ -150,3 +150,4 @@
 148. Quando ver o capitão diga "Akernaak".
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
+151. Se Kaguya estiver dentro de sua nave, chame o Shirogane para ter um embate mental amoroso com ela.
