@@ -150,3 +150,4 @@
 148. Quando ver o capitão diga "Akernaak".
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
+151. Se algo de ruim de acontecer, fale com os monitores.
