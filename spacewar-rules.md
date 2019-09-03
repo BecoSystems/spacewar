@@ -150,3 +150,4 @@
 148. Quando ver o capitão diga "Akernaak".
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
+151. Siga os conselhos do Beco e tente passar de fase.
