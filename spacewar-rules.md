@@ -153,4 +153,5 @@
 151. Se precisar de ajuda chame a Hulkbuster.
 152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
-154. Ao pegar a arma dourada, cause o dobro de dano, porem, perca metade da vida.
+154. Para derrotar o inimigo, use um Shidore.
+155. Ao pegar a arma dourada, cause o dobro de dano, porém, perca metade da vida.
