@@ -152,4 +152,5 @@
 150. Quando estiver preocupado pule num pé só.
 151. Se precisar de ajuda chame a Hulkbuster.
 152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
-153. Caso precise ir ao mundo invertido, chama a Eleven.
+153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
+154. Caso precise ir ao mundo invertido, chama a Eleven.
