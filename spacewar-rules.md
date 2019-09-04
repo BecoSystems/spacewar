@@ -153,4 +153,5 @@
 151. Se precisar de ajuda chame a Hulkbuster.
 152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
-154. Siga os conselhos do Beco e tente, muito, muito mesmo, passar de fase.
+154. Para derrotar o inimigo, use um Shidore.
+155. Siga os conselhos do Beco e tente, muito, muito mesmo, passar de fase.
