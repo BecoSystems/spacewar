@@ -151,3 +151,4 @@
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
 151. Se precisar de ajuda chame a Hulkbuster.
+152. Termine o Percuso de Kessel em 12 Parsecs e ganhe +20 pontos de maestria e pilotagem.
