@@ -150,4 +150,7 @@
 148. Quando ver o capitão diga "Akernaak".
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
-151. Se algo de ruim de acontecer, fale com os monitores.
+151. Se precisar de ajuda chame a Hulkbuster.
+152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
+153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
+154. Se algo de ruim acontecer, chame os monitores
