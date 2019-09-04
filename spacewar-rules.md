@@ -155,3 +155,4 @@
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
 154. Para derrotar o inimigo, use um Shidore.
 155. Caso tenha prisão de ventre, chame um Cocôach.
+156. Caso chute a quina da parede, solte um flato.
