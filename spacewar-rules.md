@@ -151,4 +151,8 @@
 149. Olhar o Universo te enche de determinação.
 150. Quando estiver preocupado pule num pé só.
 151. Se precisar de ajuda chame a Hulkbuster.
-152. Junte todas as esféras do dragão e chame um MegaZord.
+152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
+153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
+154. Para derrotar o inimigo, use um Shidore.
+155. Caso tenha prisão de ventre, chame um Cocôach.
+156. Junte todas as esferas do dragão e chame um MegaZord.
