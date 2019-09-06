@@ -153,4 +153,7 @@
 151. Se precisar de ajuda chame a Hulkbuster.
 152. Ao comer o cogumelo colorido você irá ganhar +20 de XP.
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
-154. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
+154. Para derrotar o inimigo, use um Shidore.
+155. Caso tenha prisão de ventre, chame um Cocôach.
+156. Quando tudo parecer estar dando errado, olhe para as estrelas e dê um sorriso.
+157. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
