@@ -155,4 +155,5 @@
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
 154. Para derrotar o inimigo, use um Shidore.
 155. Caso tenha prisão de ventre, chame um Cocôach.
-156. Junte todas as esferas do dragão e chame um MegaZord.
+156. Quando tudo parecer estar dando errado, olhe para as estrelas e dê um sorriso.
+157. Junte todas as esferas do dragão e chame um MegaZord.
