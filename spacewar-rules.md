@@ -156,4 +156,5 @@
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
 154. Para derrotar o inimigo, use um Shidore.
 155. Em caso de invasão da terra, chamar os vingadores.
+156. Se o Covid-19 não acabar com o planeta em 6 meses, os aliens podem.
 
