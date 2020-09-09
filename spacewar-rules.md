@@ -157,3 +157,4 @@
 155. Caso tenha prisão de ventre, chame um Cocôach.
 156. Quando tudo parecer estar dando errado, olhe para as estrelas e dê um sorriso.
 157. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
+158. Use git commit para ativar o escudo
