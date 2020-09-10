@@ -157,5 +157,4 @@
 155. Caso tenha prisão de ventre, chame um Cocôach.
 156. Quando tudo parecer estar dando errado, olhe para as estrelas e dê um sorriso.
 157. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
-158. Siga os conselhos do Beco e tente, muito, muito mesmo, passar de fase.
-159. Voce acabou de pegar um atalho para passar mais rapidamente de fase, entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para nao viajar para a dimensao das memorias inacessiveis.
+158. Voce acabou de pegar um atalho para passar mais rapidamente de fase, entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para nao viajar para a dimensao das memorias inacessiveis.
