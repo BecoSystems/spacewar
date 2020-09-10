@@ -163,3 +163,4 @@
 161. Para andar use as pernas.
 162. Para comer use a boca.
 163. So durma quando acabar a batalha.
+164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
