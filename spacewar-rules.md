@@ -159,4 +159,4 @@
 157. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
 158. Use git commit para ativar o escudo
 159. Você não pode voar por mais de 3 minutos.
-160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, Spock com ele.
+160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
