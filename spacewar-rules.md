@@ -162,3 +162,4 @@
 160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
 161. Para andar use as pernas.
 162. Para comer use a boca.
+163. Caso sua boca esteja impossibilitada, faça um jejum por 3 dias e ganhe 60 de atributo.
