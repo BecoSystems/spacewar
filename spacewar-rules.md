@@ -165,3 +165,4 @@
 163. So durma quando acabar a batalha.
 164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
 165. Ao trocar de roupa escolha sua arma para combater os orcs.
+166. Após escolher sua arma, vá para o campo de batalha.
