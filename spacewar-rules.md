@@ -166,4 +166,6 @@
 164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
 165. Ao trocar de roupa escolha sua arma para combater os orcs.
 166. Para virar domador de fogo coma uma pimenta.
-167. Se tiver problemas com Firebenders, chamar o avatar.
+167. Se tiver problemas com Firebenders, chamar o avatar
+168. Não se esqueça de se alongar e hidratar-se durante a batalha.
+
