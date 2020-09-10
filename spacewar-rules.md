@@ -162,3 +162,5 @@
 160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
 161. Para andar use as pernas.
 162. Para comer use a boca.
+163. Para virar domador de fogo coma pimenta.
+
