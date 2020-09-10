@@ -167,3 +167,4 @@
 165. Ao trocar de roupa escolha sua arma para combater os orcs.
 166. Para virar domador de fogo coma uma pimenta.
 167. Se tiver problemas com Firebenders, chamar o avatar.
+168. Use espadas para dar golpes mais rapidos
