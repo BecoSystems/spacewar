@@ -160,3 +160,4 @@
 158. Use git commit para ativar o escudo
 159. Você não pode voar por mais de 3 minutos.
 160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
+161. Para andar use as pernas.
