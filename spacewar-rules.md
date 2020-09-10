@@ -162,5 +162,8 @@
 160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
 161. Para andar use as pernas.
 162. Para comer use a boca.
-163. Para virar domador de fogo coma pimenta.
+163. So durma quando acabar a batalha.
+164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
+165. Ao trocar de roupa escolha sua arma para combater os orcs.
+166. Para virar um domador de fogo coma uma pimenta.
 
