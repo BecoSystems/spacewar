@@ -162,4 +162,20 @@
 160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
 161. Para andar use as pernas.
 162. Para comer use a boca.
-163. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
+163. So durma quando acabar a batalha.
+164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
+165. Ao trocar de roupa escolha sua arma para combater os orcs.
+166. Para virar domador de fogo coma uma pimenta.
+167. Se tiver problemas com Firebenders, chamar o avatar.
+168. Você acabou de pegar um atalho para passar mais rapidamente de fase,entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para não viajar para a dimensão das memórias inacessíveis.
+169. A vida nao importa o quantas vezes voce cai, mas sim quantas vezes voce apanha e levanta para a luta.
+170. Para sobreviver procure tochas ao seu redor.
+171. Se encontrar um demonio, chame os irmaos Winchester. 
+172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
+173. Para voar, se jogue.
+174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
+175. Caso voce encontre o Demogorgon, procure a Eleven.
+176. se voce achar o greedo voce ganha +15 de XP
+177. Domine os 4 elementos para ativar o modo Avatar.
+178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
+179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
