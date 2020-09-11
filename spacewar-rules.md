@@ -176,4 +176,5 @@
 174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
 175. Caso voce encontre o Demogorgon, procure a Eleven.
 176. se voce achar o greedo voce ganha +15 de XP
-177. Caso te joguem batatas faca um pure.
+177. Domine os 4 elementos para ativar o modo Avatar.
+178. Caso te joguem batatas faca um pure.
