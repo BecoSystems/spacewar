@@ -170,4 +170,5 @@
 168. Você acabou de pegar um atalho para passar mais rapidamente de fase,entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para não viajar para a dimensão das memórias inacessíveis.
 169. A vida nao importa o quantas vezes voce cai, mas sim quantas vezes voce apanha e levanta para a luta.
 170. Para sobreviver procure tochas ao seu redor.
-171. Se encontrar um demonio, chame os irmaos Winchester. 
+171. Se encontrar um demonio, chame os irmaos Winchester.
+172. Se nao ha duvidas no seu coracao, nao hesite em atirar.
