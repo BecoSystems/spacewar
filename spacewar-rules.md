@@ -172,3 +172,4 @@
 170. Para sobreviver procure tochas ao seu redor.
 171. Se encontrar um demonio, chame os irmaos Winchester. 
 172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
+173. Para voar, se jogue.
