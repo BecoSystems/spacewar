@@ -174,4 +174,4 @@
 172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
 173. Para voar, se jogue.
 174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
-175. Se ver um orc no alcance de 50 metros deite e role para que ele não o veja
+175. Se ver um orc no alcance de 50 metros deite e role para que ele não o veja.
