@@ -175,3 +175,4 @@
 173. Para voar, se jogue.
 174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
 175. Caso voce encontre o Demogorgon, procure a Eleven.
+176. Se voce encontrar Valfenda, terá um elfo escudeiro pelo resto do jogo.
