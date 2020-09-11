@@ -177,3 +177,4 @@
 175. Caso voce encontre o Demogorgon, procure a Eleven.
 176. se voce achar o greedo voce ganha +15 de XP
 177. Domine os 4 elementos para ativar o modo Avatar.
+178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
