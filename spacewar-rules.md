@@ -168,3 +168,4 @@
 166. Para virar domador de fogo coma uma pimenta.
 167. Se tiver problemas com Firebenders, chamar o avatar.
 168. Você acabou de pegar um atalho para passar mais rapidamente de fase,entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para não viajar para a dimensão das memórias inacessíveis.
+169. Se o capitão america estiver na equipe, automaticamente todos os personagens entendem as referencias.
