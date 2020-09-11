@@ -171,3 +171,4 @@
 169. A vida nao importa o quantas vezes voce cai, mas sim quantas vezes voce apanha e levanta para a luta.
 170. Para sobreviver procure tochas ao seu redor.
 171. Se encontrar um demonio, chame os irmaos Winchester. 
+172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
