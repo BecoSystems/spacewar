@@ -185,3 +185,4 @@
 183. Nao usar luvas controles contra orboloides.
 184. Voce tem que pegar o xp para ganhar o bonus ataque.
 185. Coma legumes todos os dias.
+186. Pra subir de nivel, coma pure.
