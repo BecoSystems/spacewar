@@ -179,3 +179,4 @@
 177. Domine os 4 elementos para ativar o modo Avatar.
 178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
 179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
+180. 1986 te espera, entre na caverna de dark.
