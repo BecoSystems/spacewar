@@ -182,3 +182,4 @@
 180. 1986 te espera, entre na caverna de dark.
 181. Concentre seu chakra para poder fazer jutso de invoação.
 182. O ano e 2019, mate o paciente zero do covid 19.
+183. Nao usar luvas controles contra orboloides.
