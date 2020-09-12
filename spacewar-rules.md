@@ -181,3 +181,4 @@
 179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
 180. 1986 te espera, entre na caverna de dark.
 181. Concentre seu chakra para poder fazer jutso de invoação.
+182. Não escute o homem atrás da cortina.
