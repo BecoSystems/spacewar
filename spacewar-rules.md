@@ -177,4 +177,11 @@
 175. Caso voce encontre o Demogorgon, procure a Eleven.
 176. se voce achar o greedo voce ganha +15 de XP
 177. Domine os 4 elementos para ativar o modo Avatar.
-178. Caso te joguem batatas faca um pure.
+178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
+179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
+180. 1986 te espera, entre na caverna de dark.
+181. Concentre seu chakra para poder fazer jutso de invoação.
+182. O ano e 2019, mate o paciente zero do covid 19.
+183. Nao usar luvas controles contra orboloides.
+184. Voce tem que pegar o xp para ganhar o bonus ataque.
+185. Caso te joguem batatas faca um pure.
