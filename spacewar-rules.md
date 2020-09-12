@@ -184,4 +184,5 @@
 182. O ano e 2019, mate o paciente zero do covid 19.
 183. Nao usar luvas controles contra orboloides.
 184. Voce tem que pegar o xp para ganhar o bonus ataque.
-185. Caso te joguem batatas faca um pure.
+185. Coma legumes todos os dias.
+186. Caso te joguem batatas faca um pure.
