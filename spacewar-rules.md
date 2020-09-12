@@ -186,3 +186,5 @@
 184. Voce tem que pegar o xp para ganhar o bonus ataque.
 185. Coma legumes todos os dias.
 186. Pra subir de nivel, coma pure.
+187. Se você ficar com sono e tomar o energético RedBull, recomece o jogo.
+
