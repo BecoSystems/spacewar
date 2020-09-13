@@ -188,3 +188,4 @@
 186. Pra subir de nivel, coma pure.
 187. Se voce ficar com sono e tomar o energetico RedBull, recomece o jogo.
 188. Só vire pirata se o Capitão usar um chapéu de palha.
+189. Use o comando diff para ter asas de dragão.
