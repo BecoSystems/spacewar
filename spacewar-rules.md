@@ -178,4 +178,12 @@
 176. se voce achar o greedo voce ganha +15 de XP
 177. Domine os 4 elementos para ativar o modo Avatar.
 178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
-179. Só vire pirata se o Capitão usar um chapéu de palha.
+179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
+180. 1986 te espera, entre na caverna de dark.
+181. Concentre seu chakra para poder fazer jutso de invoação.
+182. O ano e 2019, mate o paciente zero do covid 19.
+183. Nao usar luvas controles contra orboloides.
+184. Voce tem que pegar o xp para ganhar o bonus ataque.
+185. Coma legumes todos os dias.
+186. Pra subir de nivel, coma pure.
+187. Se voce ficar com sono e tomar o energetico RedBull, recomece o jogo.
