@@ -187,4 +187,4 @@
 185. Coma legumes todos os dias.
 186. Pra subir de nivel, coma pure.
 187. Se voce ficar com sono e tomar o energetico RedBull, recomece o jogo.
-188. Caso tenha assistido a trilogia do senhor dos aneis, agora voce e gandalf na forma de mago branco. Obs: Esteja preparado para lutar com sua espada, pois voce esta sem mana.
+188. Só vire pirata se o Capitão usar um chapéu de palha.
