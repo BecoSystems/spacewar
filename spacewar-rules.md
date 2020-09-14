@@ -188,3 +188,4 @@
 186. Pra subir de nivel, coma pure.
 187. Se voce ficar com sono e tomar o energetico RedBull, recomece o jogo.
 188. Só vire pirata se o Capitão usar um chapéu de palha.
+189. Se voce assistiu senhor dos aneis, agora voce vira gandalf o branco. Obs: lembre-se voce estara sempre sem mana.
