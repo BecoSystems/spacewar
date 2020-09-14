@@ -193,3 +193,4 @@
 191. Use mascara para ganhar xp.
 192. Derrote o grande mago hacker para desbloquear o supercomputador.
 193. Caso encontre sua versao de outro espaço tempo, tome cuidado com a psicose paradoxal.
+194. Caso encontre uma barraca, use para dormir e salvar o jogo.
