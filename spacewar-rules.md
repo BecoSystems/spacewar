@@ -190,3 +190,4 @@
 188. Só vire pirata se o Capitão usar um chapéu de palha.
 189. Se voce assistiu senhor dos aneis, agora voce vira gandalf o branco. Obs: lembre-se voce estara sempre sem mana.
 190. Coma o cogumelo em cima da mesa para encolher.
+191. Use mascara para ganhar xp.
