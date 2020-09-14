@@ -192,3 +192,4 @@
 190. Coma o cogumelo em cima da mesa para encolher.
 191. Use mascara para ganhar xp.
 192. Derrote o grande mago hacker para desbloquear o supercomputador.
+193. Caso encontre sua versao de outro espaço tempo, tome cuidado com a psicose paradoxal.
