@@ -191,3 +191,4 @@
 189. Se voce assistiu senhor dos aneis, agora voce vira gandalf o branco. Obs: lembre-se voce estara sempre sem mana.
 190. Coma o cogumelo em cima da mesa para encolher.
 191. Use mascara para ganhar xp.
+192. Derrote o grande mago hacker para desbloquear o supercomputador.
