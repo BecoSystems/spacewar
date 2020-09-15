@@ -196,3 +196,4 @@
 194. Caso encontre uma barraca, use para dormir e salvar o jogo.
 195. Ganhe um escudo ao acertar seu oponente de perto.
 196. Use o comando diff para ter asas de dragao.
+197. Cada vez que voce alcançar 100 XP, ganhara escudo extra.
