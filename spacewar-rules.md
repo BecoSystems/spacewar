@@ -195,3 +195,4 @@
 193. Caso encontre sua versao de outro espaço tempo, tome cuidado com a psicose paradoxal.
 194. Caso encontre uma barraca, use para dormir e salvar o jogo.
 195. Ganhe um escudo ao acertar seu oponente de perto.
+196. Use o comando diff para ter asas de dragao.
