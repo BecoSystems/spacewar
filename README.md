@@ -1,2 +1,1 @@
-# spacewar
-Repositório para testes de fork e aprendizado do git
+Regra 199: Se visualizar a Madimbu, Corra.
