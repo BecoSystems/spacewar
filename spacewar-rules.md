@@ -198,3 +198,4 @@
 196. Use o comando diff para ter asas de dragao.
 197. Se o goku tiver dificuldades ele pinta o cabelo.
 198. Cada vez que voce alcançar 100 XP, ganhara escudo extra.
+199. Em caso de incendio, chame o mario.
