@@ -155,5 +155,48 @@
 153. Se o inimigo usa sabre de luz, ativar sabre de luz, senão, use arma laser.
 154. Para derrotar o inimigo, use um Shidore.
 155. Caso tenha prisão de ventre, chame um Cocôach.
-156. Caso chute a quina da parede, solte um flato.
-157. Em caso de cansaco, tome um cafe.
+156. Quando tudo parecer estar dando errado, olhe para as estrelas e dê um sorriso.
+157. Se não souber o que fazer ou para aonde ir, chame o Capitão América.
+158. Use git commit para ativar o escudo
+159. Você não pode voar por mais de 3 minutos.
+160. Caso encontre um Vulcano em sua jornada jogue uma partida de pedra, papel, tesoura, lagarto, Spock com ele.
+161. Para andar use as pernas.
+162. Para comer use a boca.
+163. So durma quando acabar a batalha.
+164. Quando acordar é necessário trocar de roupa, caso contrário perderá o jogo.
+165. Ao trocar de roupa escolha sua arma para combater os orcs.
+166. Para virar domador de fogo coma uma pimenta.
+167. Se tiver problemas com Firebenders, chamar o avatar.
+168. Você acabou de pegar um atalho para passar mais rapidamente de fase,entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para não viajar para a dimensão das memórias inacessíveis.
+169. A vida nao importa o quantas vezes voce cai, mas sim quantas vezes voce apanha e levanta para a luta.
+170. Para sobreviver procure tochas ao seu redor.
+171. Se encontrar um demonio, chame os irmaos Winchester. 
+172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
+173. Para voar, se jogue.
+174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
+175. Caso voce encontre o Demogorgon, procure a Eleven.
+176. se voce achar o greedo voce ganha +15 de XP
+177. Domine os 4 elementos para ativar o modo Avatar.
+178. Se ver um orc no alcance de 30 metros deite e role para que ele não o veja.
+179. Se encontrar o elfo perdido, jogue uma partida de xadrez contra ele.
+180. 1986 te espera, entre na caverna de dark.
+181. Concentre seu chakra para poder fazer jutso de invoação.
+182. O ano e 2019, mate o paciente zero do covid 19.
+183. Nao usar luvas controles contra orboloides.
+184. Voce tem que pegar o xp para ganhar o bonus ataque.
+185. Coma legumes todos os dias.
+186. Pra subir de nivel, coma pure.
+187. Se voce ficar com sono e tomar o energetico RedBull, recomece o jogo.
+188. Só vire pirata se o Capitão usar um chapéu de palha.
+189. Se voce assistiu senhor dos aneis, agora voce vira gandalf o branco. Obs: lembre-se voce estara sempre sem mana.
+190. Coma o cogumelo em cima da mesa para encolher.
+191. Use mascara para ganhar xp.
+192. Derrote o grande mago hacker para desbloquear o supercomputador.
+193. Caso encontre sua versao de outro espaço tempo, tome cuidado com a psicose paradoxal.
+194. Caso encontre uma barraca, use para dormir e salvar o jogo.
+195. Ganhe um escudo ao acertar seu oponente de perto.
+196. Use o comando diff para ter asas de dragao.
+197. Se o goku tiver dificuldades ele pinta o cabelo.
+198. Cada vez que voce alcançar 100 XP, ganhara escudo extra.
+199. Em caso de cansaco, tome um cafe.
+
