@@ -67,9 +67,10 @@ $ git cm "regra XXX: assunto tal e tal"
  5. Push (registra remoto no origin, que é o seu fork)
 
 ```
-$ 
+$ git push
+```
 
- 6. PR (pull request, pede para unir o origin com o upstream). Feito no website, botão `New pull request`.
+ 6. PR (pull request, pede para unir o origin com o upstream). Feito no website, botão `New pull request`, e então `Create pull request`.
  7. Aguardar resultado, acompanhar pelo website (alunos de Prog. 2 aceitar ou rejeitar, e dar um motivo).
  8. Após resultado, repetir em caso de rejeição
 
