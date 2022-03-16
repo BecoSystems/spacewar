@@ -202,3 +202,4 @@
 200. Quando o sol se por, aproveite para descansar na praia.
 201. Se mergulhar, não vôe de avião nas próximas 48h.
 202. Use alcool nas maos para jogar.
+203. Cuidado com tomadas, podem dar choques.
