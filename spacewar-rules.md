@@ -201,3 +201,4 @@
 199. Quando acabar a gasolina fale Ipiranga 3 vezes que um posto de reabastecimento aparece.
 200. Quando o sol se por, aproveite para descansar na praia.
 201. Se mergulhar, não vôe de avião nas próximas 48h.
+202. Use alcool nas maos para jogar.
