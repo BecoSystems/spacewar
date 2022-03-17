@@ -205,3 +205,4 @@
 203. Cuidado com tomadas, podem dar choques.
 204. Quando o tempo abrir, abra as janelas e veja o sol.
 205. Coma um miojo enquanto ler um livro para virar Boss.
+206. Coma um BigMac para recuperar seu HP.
