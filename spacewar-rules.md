@@ -203,3 +203,4 @@
 201. Se mergulhar, não vôe de avião nas próximas 48h.
 202. Use alcool nas maos para jogar.
 203. Cuidado com tomadas, podem dar choques.
+204. Quando o tempo abrir, abra as janelas e veja o sol.
