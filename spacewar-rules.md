@@ -204,3 +204,4 @@
 202. Use alcool nas maos para jogar.
 203. Cuidado com tomadas, podem dar choques.
 204. Quando o tempo abrir, abra as janelas e veja o sol.
+205. Coma um miojo enquanto ler um livro para virar Boss.
