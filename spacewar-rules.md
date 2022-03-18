@@ -211,3 +211,4 @@
 209. Se nada der certo, venda arte na praia.
 210. Em uma final de copa america, nao deixe messi bater o penalti decisivo.
 211. Caso encontre um gato no caminho adote-o, ele lhe dará pontos de sanidade.
+212. Nao coma cogumelos perto de canos.
