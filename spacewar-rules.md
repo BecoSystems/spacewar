@@ -207,3 +207,4 @@
 205. Coma um miojo enquanto ler um livro para virar Boss.
 206. Coma um BigMac para recuperar seu HP.
 207. Use vegetais em um apocalipse zumbi.
+208. Caso encontre um gato no caminho adote-o, ele lhe dará pontos de sanidade.
