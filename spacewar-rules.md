@@ -209,3 +209,4 @@
 207. Use vegetais em um apocalipse zumbi.
 208. Jogue The Legend of Zelda: Ocarina of Time por completo.
 209. Se nada der certo, venda arte na praia.
+210. Em uma final de copa america, nao deixe messi bater o penalti decisivo.
