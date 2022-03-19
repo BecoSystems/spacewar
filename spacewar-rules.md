@@ -212,3 +212,4 @@
 210. Em uma final de copa america, nao deixe messi bater o penalti decisivo.
 211. Caso encontre um gato no caminho adote-o, ele lhe dará pontos de sanidade.
 212. Nao coma cogumelos perto de canos.
+213. Ao capturar monstros use um bruxo.
