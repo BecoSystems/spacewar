@@ -213,3 +213,4 @@
 211. Caso encontre um gato no caminho adote-o, ele lhe dará pontos de sanidade.
 212. Nao coma cogumelos perto de canos.
 213. Ao capturar monstros use um bruxo.
+214. Caso encoste em uma estrela dourada, fique imune a todas as fraquezas por duas rodadas.
