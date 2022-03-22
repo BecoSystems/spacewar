@@ -214,3 +214,4 @@
 212. Nao coma cogumelos perto de canos.
 213. Ao capturar monstros use um bruxo.
 214. Caso encoste em uma estrela dourada, fique imune a todas as fraquezas por duas rodadas.
+215. Se estiver em perigo iminente sua energia espiritual é liberada.
