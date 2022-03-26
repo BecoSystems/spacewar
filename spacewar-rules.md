@@ -217,5 +217,5 @@
 215. Se estiver em perigo iminente sua energia espiritual é liberada.
 216. Nao instale muitos implantes ciberneticos. Você pode acabar esquecendo que e humano e entrando em ciberpsicose.
 217. Faca amizade com um alienigena, eles podem ser uteis na exploracao do mundo, em combate e na busca por itens raros.
-218. Longas jornadas são seguidas de longos descanços.
+218. Longas jornadas são seguidas de longos descansos.
 
