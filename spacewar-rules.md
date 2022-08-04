@@ -222,3 +222,4 @@
 220. Você pisou em uma armadilha, a nave do vai dar namoro, do general Faro se aproxima!
 221. Pegue a arma "cavalo para destruir o exército".
 222. É lançado um projétil  "que é isso meu filho, calma" tente se desviar.
+223. Grite o hino de guerra "Ele gosta".
