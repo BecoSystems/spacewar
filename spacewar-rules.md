@@ -220,4 +220,4 @@
 218. Longas jornadas são seguidas de longos descansos.
 219. Domestique um Gremilin, lembrando sempre de não alimentá-lo após a meia-noite e não deixá-lo em contato com água.
 220. Você pisou em uma armadilha, a nave do vai dar namoro, do general Faro se aproxima!
-
+221. Pegue a arma "cavalo para destruir o exército".
