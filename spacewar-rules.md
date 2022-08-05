@@ -225,3 +225,4 @@
 223. Grite o hino de guerra "Ele gosta".
 224. Invoque um atumalaca para te ajudar.
 225. Prepare-se para combater o exército de "Ai mamãe".
+226. Ao se cansar, tome caldinho e litrao!
