@@ -223,3 +223,4 @@
 221. Pegue a arma "cavalo para destruir o exército".
 222. É lançado um projétil  "que é isso meu filho, calma" tente se desviar.
 223. Grite o hino de guerra "Ele gosta".
+224. Invoque um atumalaca para te ajudar.
