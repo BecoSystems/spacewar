@@ -219,4 +219,5 @@
 217. Faca amizade com um alienigena, eles podem ser uteis na exploracao do mundo, em combate e na busca por itens raros.
 218. Longas jornadas são seguidas de longos descansos.
 219. Domestique um Gremilin, lembrando sempre de não alimentá-lo após a meia-noite e não deixá-lo em contato com água.
+Resolva o cubo mágico ao cair de um avião para não receber o dano de queda.
 
