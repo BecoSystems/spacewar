@@ -224,3 +224,4 @@
 222. É lançado um projétil  "que é isso meu filho, calma" tente se desviar.
 223. Grite o hino de guerra "Ele gosta".
 224. Invoque um atumalaca para te ajudar.
+225. Prepare-se para combater o exército de "Ai mamãe".
