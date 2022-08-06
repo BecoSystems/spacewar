@@ -227,5 +227,5 @@
 225. Prepare-se para combater o exército de "Ai mamãe".
 226. Ao se cansar, tome caldinho e litrao!
 227. Quando assistir Casimiro, vire socio do Vasco da Gama.
-228. Se tiver alicate, use-o. Sera muito util
+228. Se tiver alicate, use-o. Sera muito util.
 229. Se a barata diz que tem 7 saias, não confie nela.
