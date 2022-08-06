@@ -231,3 +231,4 @@
 229. Se a barata diz que tem 7 saias, não confie nela.
 230. Ganhe a copa do mundo e receba ouro.
 231. Comemore suas vitórias com um "irraaa".
+232. Chupar chupeta gelada e congelante.
