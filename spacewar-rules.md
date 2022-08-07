@@ -236,3 +236,4 @@
 234. Dê duas cambalhotas para aumetar a resistência.
 235. Assim que cair no mar, dançar ao som de The Sound do The 1975.
 236. Quando avistar um smurf, grite "Shazaam".
+237. Proibido jogar com o bulls de 96 no nba 2k23 quando está valendo uma coca.
