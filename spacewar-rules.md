@@ -233,3 +233,4 @@
 231. Comemore suas vitórias com um "irraaa".
 232. Chupar chupeta gelada e congelante.
 233. Execute duas vezes a regra seguinte.
+234. Dê duas cambalhotas para aumetar a resistência.
