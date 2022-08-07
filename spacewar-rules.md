@@ -235,3 +235,4 @@
 233. Execute duas vezes a regra seguinte.
 234. Dê duas cambalhotas para aumetar a resistência.
 235. Assim que cair no mar, dançar ao som de The Sound do The 1975.
+236. Quando avistar um smurf, grite "Shazaam".
