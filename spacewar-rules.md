@@ -238,5 +238,5 @@
 236. Quando avistar um smurf, grite "Shazaam".
 237. Proibido jogar com o bulls de 96 no nba 2k23 quando está valendo uma coca.
 238. Voce passou por muitas regras, viajante. Descanse um pouco.
-239. Depois do descanso, corra 10 quilômetros para se tornar o novo flash da carreta furacão
+239. Depois do descanso, corra 10 quilômetros para se tornar o novo flash da carreta furacão.
 240. Após derrotar um boss voce vai passar de nivel e beber um energetico.
