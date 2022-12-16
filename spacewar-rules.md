@@ -245,3 +245,4 @@
 243. Apos atravessar a ponte, nao cumprimente o coelho.
 244. Se a Argentina ganhar a copa, greves serão liberadas.
 245. Em meio aos protestos em joana bezerra a deusa athena te concede uma bencao.
+246. Lave os pratos da nave de guerra intergalactica ao som de Vicios e Virtudes do Charlie Brown Jr.
