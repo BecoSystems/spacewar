@@ -248,3 +248,4 @@
 246. Lave os pratos da nave de guerra intergalactica ao som de Vicios e Virtudes do Charlie Brown Jr.
 247. Tudo fica melhor com um pote de mel e Legião Urbana.
 248. Se a França ganhar o mundial, as copas do mundo serão canceladas.
+249. Jogue xadrez ao som de Conde So brega.
