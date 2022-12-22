@@ -250,3 +250,4 @@
 248. Se a França ganhar o mundial, as copas do mundo serão canceladas.
 249. Jogue xadrez ao som de Conde So brega.
 250. Não é permitido cometer suicídio.
+251. Caso voce perca um apicultor declare BAZINGA!
