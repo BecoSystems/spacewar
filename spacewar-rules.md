@@ -251,3 +251,4 @@
 249. Jogue xadrez ao som de Conde So brega.
 250. Não é permitido cometer suicídio.
 251. Caso voce perca um apicultor declare BAZINGA!
+252. Nao pode piscar 5000 vezes no dia
