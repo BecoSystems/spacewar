@@ -253,4 +253,5 @@
 251. Caso voce perca um apicultor declare BAZINGA!
 252. Nao pode piscar 5000 vezes no dia
 253. Nunca toque o sino, você ficará doente.
-254. Monte no dragão e grite dracarys.
+254. Monte no dragão e grite dracarys
+255. Faça uma receita do seu bolo favorito.
