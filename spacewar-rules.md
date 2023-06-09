@@ -242,3 +242,4 @@
 240. Após derrotar um boss voce vai passar de nivel e beber um energetico.
 241. Assim que estiver energizado, busque pela sabedoria de Muzy, conheça-o, inspire-se, idolatre-o e mude de vida.
 242. Caso aviste o bebê verde, recite as 14 palavras para alcançar os ceus.
+243. Toda vez que você alcançar um objetivo significativo ou realizar algo extraordinário, você deve proclamar em voz alta, o destino abraçou meu coração e concedeu-me o paraíso. Este é o auge da minha jornada.
