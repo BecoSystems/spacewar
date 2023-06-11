@@ -261,3 +261,4 @@
 259. Pressione F para o hydra que foi de Vasco da Gama.
 260. Não fume, assista Jojo's e grite "JOTAROOOOOO".
 261. Não cause loops infinitos no draco.
+262. Toda vez que ver uma borboleta, pinte o cabelo de vermelho.
