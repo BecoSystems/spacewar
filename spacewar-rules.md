@@ -258,3 +258,4 @@
 256. Quebre a parede com um chicote e colete um chester.
 257. Apos se alimentar, faca uma consulta com o medico Chopper.
 258. Quando o relógio der 20h, coma 3 biscoitos de mel com limão.
+259. Pressione F para o hydra que foi de Vasco da Gama.
