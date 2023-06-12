@@ -265,3 +265,4 @@
 263. Faça sua matricula na selfit na frente da poli e pule o legday.
 264. Pegue seu celular e faça uma chamada para o James pedindo uma salada de fruta, assim voce ira recuperar seu hp.
 265. Finalmente, o destino abracou meu coracao e concedeu-me o paraiso.
+266. A cada rodada com a Hp abaixo de 50%, as chances de protesto na Agamenom aumentam em 70%. Recupere o Hp com um comido e um bebido em Gildo Lanches.
