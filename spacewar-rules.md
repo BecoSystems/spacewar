@@ -262,4 +262,5 @@
 260. Não fume, assista Jojo's e grite "JOTAROOOOOO".
 261. Não cause loops infinitos no draco.
 262. Toda vez que ver uma borboleta, pinte o cabelo de vermelho.
-263. Faça sua matricula na selfit na frente da poli e pule o legday. 
+263. Faça sua matricula na selfit na frente da poli e pule o legday.
+264. Pegue seu celular e faça uma chamada para o James pedindo uma salada de fruta, assim voce ira recuperar seu hp.
