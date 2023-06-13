@@ -268,3 +268,4 @@
 266. A cada rodada com a Hp abaixo de 50%, as chances de protesto na Agamenom aumentam em 70%. Recupere o Hp com um comido e um bebido em Gildo Lanches.
 267. Nunca aceite o bolo, eh uma armadilha.
 268. Nao aperte o botao laranja.
+269. Sapos voam e tambem tomam suco de morango.
