@@ -269,3 +269,4 @@
 267. Nunca aceite o bolo, eh uma armadilha.
 268. Nao aperte o botao laranja.
 269. Sapos voam e tambem tomam suco de morango.
+270. Obedeca ao cachorro chupetao. Tchuc tchuc tchuc...
