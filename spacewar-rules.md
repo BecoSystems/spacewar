@@ -270,3 +270,4 @@
 268. Nao aperte o botao laranja.
 269. Sapos voam e tambem tomam suco de morango.
 270. Obedeca ao cachorro chupetao. Tchuc tchuc tchuc...
+271. Toda vez que precisar de socorro, fale com Rian.
