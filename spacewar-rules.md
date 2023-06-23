@@ -273,3 +273,4 @@
 271. Toda vez que precisar de socorro, fale com Rian.
 272. Ame Jesus.
 273. Tranque programação para não reprovar.
+274. Leve Luciano Juba embora do Sport imediatamente.
