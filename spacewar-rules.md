@@ -274,3 +274,4 @@
 272. Ame Jesus.
 273. Tranque programação para não reprovar.
 274. Leve Luciano Juba embora do Sport imediatamente.
+275. Eleja Wagner Love a prefeito de Recife.
