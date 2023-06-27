@@ -277,3 +277,4 @@
 275. Eleja Wagner Love a prefeito de Recife.
 276. Traga joeliton de volta ao sport.
 277. Lembre-se que voce nao tem inimigos.
+278. Use o anel de fogo de Gandalf para adquirir resistência ao desgaste do tempo. Se não der certo use o anel para ficar invisível.
