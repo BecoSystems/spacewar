@@ -279,3 +279,4 @@
 277. Lembre-se que voce nao tem inimigos.
 278. Use o anel de fogo de Gandalf para adquirir resistência ao desgaste do tempo. Se não der certo use o anel para ficar invisível.
 279. Crie uma fazenda de sapos, eles são fofos.
+280. Procure bons equipamentos.
