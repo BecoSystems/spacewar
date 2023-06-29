@@ -281,3 +281,4 @@
 279. Crie uma fazenda de sapos, eles são fofos.
 280. Procure bons equipamentos.
 281. Sempre de bom dia para Magaiver.
+282. Na dúvida, desenhe um pentagrama e acenda 5 velas negras.
