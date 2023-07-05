@@ -282,3 +282,4 @@
 280. Procure bons equipamentos.
 281. Sempre de bom dia para Magaiver.
 282. Na dúvida, desenhe um pentagrama e acenda 5 velas negras.
+283. Caso um portal do tempo seja utilizado invoque um esquilo.
