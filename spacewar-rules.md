@@ -284,3 +284,4 @@
 282. Na dúvida, desenhe um pentagrama e acenda 5 velas negras.
 283. Caso um portal do tempo seja utilizado invoque um esquilo.
 284. Durma 5 horas por dia, 5 dias por semana, durante 1 mês. E você ganha a skin de zumbi.
+285. Apoie um lápis na casa do cachorro.
