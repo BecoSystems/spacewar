@@ -286,3 +286,4 @@
 284. Durma 5 horas por dia, 5 dias por semana, durante 1 mês. E você ganha a skin de zumbi.
 285. Apoie um lápis na casa do cachorro.
 286. Olhe ao redor e tenha cuidado com o sapo rei.
+287. Se o X lhe chamar pra destruir a JAA, não aceite.
