@@ -290,3 +290,4 @@
 288. Não conte seus segredos para Imu Sama ou ele ira fazer com você o mesmo que fez com o Rei Kobra.
 289. Ame as pessoas que odeiam LoL, elas sabem de algo.
 290. Ache uma divisao para o Santa Cruz.
+291. Se ver o Mario grite MAMMAMIA e de uma voadora no Luigi.
