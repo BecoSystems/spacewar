@@ -288,3 +288,4 @@
 286. Olhe ao redor e tenha cuidado com o sapo rei.
 287. Se o X lhe chamar pra destruir a JAA, não aceite.
 288. Não conte seus segredos para Imu Sama ou ele ira fazer com você o mesmo que fez com o Rei Kobra.
+289. Ache uma divisao para o Santa Cruz.
