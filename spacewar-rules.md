@@ -289,3 +289,4 @@
 287. Se o X lhe chamar pra destruir a JAA, não aceite.
 288. Não conte seus segredos para Imu Sama ou ele ira fazer com você o mesmo que fez com o Rei Kobra.
 289. Ame as pessoas que odeiam LoL, elas sabem de algo.
+290. Ache uma divisao para o Santa Cruz.
