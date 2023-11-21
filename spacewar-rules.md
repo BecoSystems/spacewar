@@ -292,3 +292,4 @@
 290. Ache uma divisao para o Santa Cruz.
 291. Se ver o Mario grite MAMMAMIA e de uma voadora no Luigi.
 292. Nao coma um tijolo.
+293. Siamo con clavi, siamo con Dio, siamo con il nostro Dio scuro.
