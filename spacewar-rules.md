@@ -293,3 +293,4 @@
 291. Se ver o Mario grite MAMMAMIA e de uma voadora no Luigi.
 292. Nao coma um tijolo.
 293. Siamo con clavi, siamo con Dio, siamo con il nostro Dio scuro.
+249. Antes de ejetar do seu titã, ative o modo de autodestruição.
