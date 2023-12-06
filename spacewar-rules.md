@@ -295,3 +295,4 @@
 293. Siamo con clavi, siamo con Dio, siamo con il nostro Dio scuro.
 294. Nao use Pod e respeite o professo.
 295. Fale sobre One Piece com um amigo e ganhe 5 frutas do diabo
+296. Santa cruz campeao pernambucano.
