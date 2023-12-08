@@ -297,3 +297,4 @@
 295. Fale sobre One Piece com um amigo e ganhe 5 frutas do diabo
 296. Santa cruz campeao pernambucano.
 297. Compre uma beta no mercado das mangueiras.
+298. Se voce ver uma roupa, faca um desfile de moda.
