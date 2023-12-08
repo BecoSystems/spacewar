@@ -298,3 +298,4 @@
 296. Santa cruz campeao pernambucano.
 297. Compre uma beta no mercado das mangueiras.
 298. Se voce ver uma roupa, faca um desfile de moda.
+299. Seja um torcedor do maior do nordeste, vulgo meu leao.
