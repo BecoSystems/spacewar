@@ -299,3 +299,4 @@
 297. Compre uma beta no mercado das mangueiras.
 298. Se voce ver uma roupa, faca um desfile de moda.
 299. Seja um torcedor do maior do nordeste, vulgo meu leao.
+300. Compre o gta6 e jogue a madruga toda.
