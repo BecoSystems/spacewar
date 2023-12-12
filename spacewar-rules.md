@@ -301,3 +301,4 @@
 299. Seja um torcedor do maior do nordeste, vulgo meu leao.
 300. Compre o gta6 e jogue a madruga toda.
 301. Apartir dessa regra faça todas as regras de cabeça pra baixo.
+302. Jogar no tigrinho todo fim de semana.
