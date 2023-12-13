@@ -302,3 +302,4 @@
 300. Compre o gta6 e jogue a madruga toda.
 301. Apartir dessa regra faça todas as regras de cabeça pra baixo.
 302. O cachorro miou igual a um passarinho.
+303. O dia em que a terra parou e a lua criou perna e usou salto.
