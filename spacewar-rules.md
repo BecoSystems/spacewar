@@ -304,3 +304,4 @@
 302. O cachorro miou igual a um passarinho.
 303. O dia em que a terra parou e a lua criou perna e usou salto.
 304. Caso o sapo hipnotico seja morto compre um token de nave.
+305. Spaconave atira no asteroide e ganha pontos.
