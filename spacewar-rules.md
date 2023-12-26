@@ -307,3 +307,4 @@
 305. Spaconave atira no asteroide e ganha pontos
 306. Ao passar por uma ponte se certifique de que ninguem vai pular dela.
 307. Se nao sabe o que fazer, pague de doido.
+308. Se ver o cadeirudo, fuja.
