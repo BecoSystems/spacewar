@@ -309,3 +309,4 @@
 307. Se nao sabe o que fazer, pague de doido.
 308. Se ver o cadeirudo, fuja.
 309. se ver um cachorro faça carinho.
+310. Se ouvir a musica meio termo beba 4 doses de pitu.
