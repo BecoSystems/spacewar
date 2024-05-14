@@ -311,3 +311,4 @@
 309. se ver um cachorro faça carinho.
 310. Se ouvir a musica meio termo beba 4 doses de pitu.
 311. Se você ver o Pica-pau lutando com o Godzilla, viaje para a Camboja.
+312. No dia mais ensolarado beba uma cerveja nossa e faça um churrasco.
