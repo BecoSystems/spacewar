@@ -301,4 +301,16 @@
 299. Seja um torcedor do maior do nordeste, vulgo meu leao.
 300. Compre o gta6 e jogue a madruga toda.
 301. Apartir dessa regra faça todas as regras de cabeça pra baixo.
-302. Agora faça o oposto a regra anterior.
+302. O cachorro miou igual a um passarinho.
+303. O dia em que a terra parou e a lua criou perna e usou salto.
+304. Caso o sapo hipnotico seja morto compre um token de nave.
+305. Spaconave atira no asteroide e ganha pontos
+306. Ao passar por uma ponte se certifique de que ninguem vai pular dela.
+307. Se nao sabe o que fazer, pague de doido.
+308. Se ver o cadeirudo, fuja.
+309. se ver um cachorro faça carinho.
+310. Se ouvir a musica meio termo beba 4 doses de pitu.
+311. Se você ver o Pica-pau lutando com o Godzilla, viaje para a Camboja.
+312. No dia mais ensolarado beba uma cerveja nossa e faça um churrasco.
+313. Realizar manobra do tipo "cavalo-de-pau" com a nave gera +50XP.
+314. Piratas viajaram e o aviao caiu.
