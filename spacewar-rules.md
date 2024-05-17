@@ -314,3 +314,4 @@
 312. No dia mais ensolarado beba uma cerveja nossa e faça um churrasco.
 313. Realizar manobra do tipo "cavalo-de-pau" com a nave gera +50XP.
 314. Piratas viajaram e o aviao caiu.
+315. Quando comecar a chover, se proteja em um local coberto.
