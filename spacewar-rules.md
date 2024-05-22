@@ -317,3 +317,4 @@
 315. Coma cuscuz se quiser ser alguem na vida.
 316. Beba muito duplo malte.
 317. Aprenda como pular da ponte com comandos git.
+318. nao use ervas no sri lanka.
