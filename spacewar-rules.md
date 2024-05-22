@@ -315,4 +315,3 @@
 313. Realizar manobra do tipo "cavalo-de-pau" com a nave gera +50XP.
 314. Piratas viajaram e o aviao caiu.
 315. Coma cuscuz se quiser ser alguem na vida.
-316. Beba muito duplo malte.
