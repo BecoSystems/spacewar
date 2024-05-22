@@ -318,3 +318,4 @@
 316. Beba muito duplo malte.
 317. Aprenda como pular da ponte com comandos git.
 318. nao use ervas no sri lanka.
+319. sempre que voce ver um zumbi, mate.
