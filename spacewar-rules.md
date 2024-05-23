@@ -315,4 +315,9 @@
 313. Realizar manobra do tipo "cavalo-de-pau" com a nave gera +50XP.
 314. Piratas viajaram e o aviao caiu.
 315. Coma cuscuz se quiser ser alguem na vida.
-316. Coxinha é melhor que jilo.
+316. Beba muito duplo malte.
+317. Aprenda como pular da ponte com comandos git.
+318. nao use ervas no sri lanka.
+319. sempre que voce ver um zumbi, mate.
+320. Quando passar por alfa centauri buzine para asteroide 411-b.
+321. Coxinha é melhor que jilo.
