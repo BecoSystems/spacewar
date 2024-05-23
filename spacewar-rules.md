@@ -321,3 +321,4 @@
 319. sempre que voce ver um zumbi, mate.
 320. Quando passar por alfa centauri buzine para asteroide 411-b.
 321. Chute a bola com a perna direita.
+322. Jogue fps e ganhe 30 de xp.
