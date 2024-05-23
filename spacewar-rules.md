@@ -321,4 +321,5 @@
 319. sempre que voce ver um zumbi, mate.
 320. Quando passar por alfa centauri buzine para asteroide 411-b.
 321. Chute a bola com a perna direita.
-322. Coxinha é melhor que jilo.
+322. Jogue fps e ganhe 600 de xp.
+323. Coxinha é melhor que jilo.
