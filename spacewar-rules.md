@@ -324,3 +324,4 @@
 322. Jogue fps e ganhe 600 de xp.
 323. Nao se convertam ao machadado 98 hohohohoho
 324. Nao coma manga com um buldog frances na copa.
+325. Nao fale com uma estatua, ou irar reprovar em prog1
