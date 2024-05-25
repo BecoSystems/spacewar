@@ -325,3 +325,4 @@
 323. Nao se convertam ao machadado 98 hohohohoho
 324. Nao coma manga com um buldog frances na copa.
 325. Nao fale com uma estatua, ou irar reprovar em prog1
+326. Quando comecar a chover, se proteja em um local coberto.
