@@ -326,3 +326,4 @@
 324. Nao coma manga com um buldog frances na copa.
 325. Nao fale com uma estatua, ou irar reprovar em prog1
 326. Quando comecar a chover, se proteja em um local coberto.
+327. Dois jogadores podem ser controlados simultaneamente por um único jogador.
