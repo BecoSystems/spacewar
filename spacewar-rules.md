@@ -328,3 +328,4 @@
 326. Quando comecar a chover, se proteja em um local coberto.
 327. Se seu cachorro for caramelo escute Roberto Carlos.
 328. Se o nautico ganhar a serie c, comece a torcer pra ele.
+329. Se o cavalo explodir faça um mortal pra trás.
