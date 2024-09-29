@@ -331,3 +331,4 @@
 329. Se o cavalo explodir faça um mortal pra trás.
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
 331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
+332. Toda vez que você ouvir um passaro cantar, precisa dar um pulo com uma perna só.
