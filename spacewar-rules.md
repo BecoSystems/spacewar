@@ -331,3 +331,4 @@
 329. Se o cavalo explodir faça um mortal pra trás.
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
 331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
+332. Caso veja um goblin, insute-o de graça.
