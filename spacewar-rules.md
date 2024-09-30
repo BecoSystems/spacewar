@@ -333,4 +333,4 @@
 331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
 332. Caso veja um goblin, insute-o de graça.
 333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
-
+334. Se o computador desligar ligue de volta.
