@@ -337,3 +337,4 @@
 335. Se uma pessoa oferecer algo só aceite se for comida.
 336. Nao diga altf4 em publico se nao voce crasha.
 337. Nunca coma mais de 7 bolachas de uma vez.
+338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
