@@ -334,3 +334,4 @@
 332. Caso veja um goblin, insute-o de graça.
 333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
 334. Se o computador desligar ligue de volta.
+335. Se uma pessoa oferecer algo só aceite se for comida.
