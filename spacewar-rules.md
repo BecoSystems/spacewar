@@ -335,3 +335,5 @@
 333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
 334. Se o computador desligar ligue de volta.
 335. Se uma pessoa oferecer algo só aceite se for comida.
+336. Nunca coma mais de 7 bolachas agua e sal de uma vez.
+
