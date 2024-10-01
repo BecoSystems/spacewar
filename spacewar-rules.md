@@ -340,3 +340,4 @@
 338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
 339. Se uma lagartixa te seguir não corra.
 340. Sempre que for possivel, compareca a Ilha do Retiro.
+341. Nao use drogas, para nao se perder no espaco.
