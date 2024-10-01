@@ -339,3 +339,4 @@
 337. Nunca coma mais de 7 bolachas de uma vez.
 338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
 339. Se uma lagartixa te seguir não corra.
+340. Sempre que for possivel, compareca a Ilha do Retiro.
