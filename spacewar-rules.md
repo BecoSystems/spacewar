@@ -330,4 +330,11 @@
 328. Se o nautico ganhar a serie c, comece a torcer pra ele.
 329. Se o cavalo explodir faça um mortal pra trás.
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
-331. Se todos passaarem em prog1, todos vão para Escada
+331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
+332. Caso veja um goblin, insute-o de graça.
+333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
+334. Se o computador desligar ligue de volta.
+335. Se uma pessoa oferecer algo só aceite se for comida.
+336. Nao diga altf4 em publico se nao voce crasha.
+337. Nunca coma mais de 7 bolachas de uma vez.
+338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
