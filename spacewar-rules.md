@@ -342,3 +342,4 @@
 340. Sempre que for possivel, compareca a Ilha do Retiro.
 341. Nao use drogas, para nao se perder no espaco.
 342. caso voce se junte a outra nave, voce volta para o inicio.
+343. Se o chão de Plutão virar lava, suba em Saturno.
