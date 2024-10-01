@@ -330,3 +330,5 @@
 328. Se o nautico ganhar a serie c, comece a torcer pra ele.
 329. Se o cavalo explodir faça um mortal pra trás.
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
+331. Nunca coma mais de 7 bolachas de uma vez.
+
