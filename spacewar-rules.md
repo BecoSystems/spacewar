@@ -330,4 +330,18 @@
 328. Se o nautico ganhar a serie c, comece a torcer pra ele.
 329. Se o cavalo explodir faça um mortal pra trás.
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
-331. Se passar por Triunfo dê 3 pulinhos.
+331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
+332. Caso veja um goblin, insute-o de graça.
+333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
+334. Se o computador desligar ligue de volta.
+335. Se uma pessoa oferecer algo só aceite se for comida.
+336. Nao diga altf4 em publico se nao voce crasha.
+337. Nunca coma mais de 7 bolachas de uma vez.
+338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
+339. Se uma lagartixa te seguir não corra.
+340. Sempre que for possivel, compareca a Ilha do Retiro.
+341. Nao use drogas, para nao se perder no espaco.
+342. caso voce se junte a outra nave, voce volta para o inicio.
+343. Se o chão de Plutão virar lava, suba em Saturno.
+344. Zere o akernaak uma vez na vida.
+345. Se passar por Triunfo dê 3 pulinhos.
