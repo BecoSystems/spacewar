@@ -344,3 +344,4 @@
 342. caso voce se junte a outra nave, voce volta para o inicio.
 343. Se o chão de Plutão virar lava, suba em Saturno.
 344. Zere o akernaak uma vez na vida.
+345. Se passar por Triunfo dê 3 pulinhos.
