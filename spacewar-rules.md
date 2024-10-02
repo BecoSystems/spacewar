@@ -346,3 +346,4 @@
 344. Zere o akernaak uma vez na vida.
 345. Se passar por Triunfo dê 3 pulinhos.
 346. Nao pule no sol, porque e quente.
+347. Se escutar o canto das sereias vai ter que cantar com elas todas as musicas do filme Mamma Mia.
