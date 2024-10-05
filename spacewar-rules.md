@@ -349,3 +349,4 @@
 347. Se escutar o canto das sereias vai ter que cantar com elas todas as musicas do filme Mamma Mia.
 348. Caso viaje para Malaga, nao peca uma ambulancia as cinco.
 349. Caso veja boi tungao, fuja para as colinas.
+350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
