@@ -315,3 +315,39 @@
 313. Realizar manobra do tipo "cavalo-de-pau" com a nave gera +50XP.
 314. Piratas viajaram e o aviao caiu.
 315. Coma cuscuz se quiser ser alguem na vida.
+316. Beba muito duplo malte.
+317. Aprenda como pular da ponte com comandos git.
+318. nao use ervas no sri lanka.
+319. sempre que voce ver um zumbi, mate.
+320. Quando passar por alfa centauri buzine para asteroide 411-b.
+321. Chute a bola com a perna direita.
+322. Jogue fps e ganhe 600 de xp.
+323. Nao se convertam ao machadado 98 hohohohoho
+324. Nao coma manga com um buldog frances na copa.
+325. Nao fale com uma estatua, ou irar reprovar em prog1
+326. Quando comecar a chover, se proteja em um local coberto.
+327. Se seu cachorro for caramelo escute Roberto Carlos.
+328. Se o nautico ganhar a serie c, comece a torcer pra ele.
+329. Se o cavalo explodir faça um mortal pra trás.
+330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
+331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
+332. Caso veja um goblin, insute-o de graça.
+333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
+334. Se o computador desligar ligue de volta.
+335. Se uma pessoa oferecer algo só aceite se for comida.
+336. Nao diga altf4 em publico se nao voce crasha.
+337. Nunca coma mais de 7 bolachas de uma vez.
+338. Se todos passarem em Prog1, vão passar 1 mês em Escada.
+339. Se uma lagartixa te seguir não corra.
+340. Sempre que for possivel, compareca a Ilha do Retiro.
+341. Nao use drogas, para nao se perder no espaco.
+342. caso voce se junte a outra nave, voce volta para o inicio.
+343. Se o chão de Plutão virar lava, suba em Saturno.
+344. Zere o akernaak uma vez na vida.
+345. Se passar por Triunfo dê 3 pulinhos.
+346. Nao pule no sol, porque e quente.
+347. Se escutar o canto das sereias vai ter que cantar com elas todas as musicas do filme Mamma Mia.
+348. Caso viaje para Malaga, nao peca uma ambulancia as cinco.
+349. Caso veja boi tungao, fuja para as colinas.
+350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
+351. Beba água 100 vezes no dia.
