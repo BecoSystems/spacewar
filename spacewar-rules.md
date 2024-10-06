@@ -351,4 +351,3 @@
 349. Caso veja boi tungao, fuja para as colinas.
 350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
 351. Beba água 100 vezes no dia.
-
