@@ -352,3 +352,4 @@
 350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
 351. Se um passáro cantar, pule com um pé só
 352. Se for entrar na casa, tire o calçado.
+353. Caso veja um gato tera que ver todas as temporadas de the vampire diaries.
