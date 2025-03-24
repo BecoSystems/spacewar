@@ -354,3 +354,4 @@
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
 354. Se ver um gato tera que assistir todas as temporadas de the vampire diaries
+355. Se encontrar um DeLorean, use ele pra viajar no tempo e corrigir seus erros passados.
