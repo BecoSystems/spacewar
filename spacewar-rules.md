@@ -359,3 +359,4 @@
 357. Ao destruir uma nave espacial gigante, você será teletransportado para uma nova galáxia.
 358. Ao ver um cachorro dê um pulo.
 359. Se sair de casa, dance 7 vezes.
+360. Se você ver a sombra de um pato, pegue um chapéu e coloque na lua.
