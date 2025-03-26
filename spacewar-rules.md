@@ -332,7 +332,7 @@
 330. Todos os jogadores devem iniciara a partida em zonas sem perigo.
 331. Sempre que um golfinho der cambalhota, aposte um membro da família no tigrinho.
 332. Caso veja um goblin, insute-o de graça.
-333. Todos devem escutar Reginaldo Rossi e beber agua na praça.
+333.  Todos devem escutar Reginaldo Rossi e beber agua na praça.
 334. Se o computador desligar ligue de volta.
 335. Se uma pessoa oferecer algo só aceite se for comida.
 336. Nao diga altf4 em publico se nao voce crasha.
@@ -354,3 +354,4 @@
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
 354. Se ver um gato tera que assistir todas as temporadas de the vampire diaries
+355. Toda vez que você tentar atirar sem mirar vai aparecer uma mensagem dizendo: "slk, não compensa"
