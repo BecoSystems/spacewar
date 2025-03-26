@@ -354,4 +354,5 @@
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
 354. Se ver um gato tera que assistir todas as temporadas de the vampire diaries
-358. Se você ver um cachorro dê um pulo.
+355. Se voce ver uma Lhama no Fortnite, abra-a
+358. Se você ver um cachorro dê um pulo
