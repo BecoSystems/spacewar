@@ -356,3 +356,4 @@
 354. Se ver um gato tera que assistir todas as temporadas de the vampire diares
 355. Se voce ver uma Lhama no Fortnite, abra-a
 356. Se encontrar um DeLorean, use ele pra viajar no tempo e corrigir seus erros passados.
+357. Ao destruir uma nave espacial gigante, você será teletransportado para uma nova galáxia.
