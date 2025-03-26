@@ -353,5 +353,4 @@
 351. Se um passáro cantar, pule com um pé só
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
-354. Se ver um gato tera que assistir todas as temporadas de the vampire diares
-355. Se voce ver uma Lhama no Fortnite, abra-a
+354. Se ver um gato tera que assistir todas as temporadas de the vampire diaries
