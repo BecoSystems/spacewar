@@ -354,4 +354,8 @@
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
 354. Se ver um gato tera que assistir todas as temporadas de the vampire diaries
-355. Se avistar um cachorro acaricia-lo na cabeça.
+355. Se voce ver uma Lhama no Fortnite, abra-a
+356. Se encontrar um DeLorean, use ele pra viajar no tempo e corrigir seus erros passados.
+357. Ao destruir uma nave espacial gigante, você será teletransportado para uma nova galáxia.
+358. Ao ver um cachorro dê um pulo.
+359. Ao ver um desconhecido comprimenta-lo.
