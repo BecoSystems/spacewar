@@ -358,3 +358,4 @@
 356. Se encontrar um DeLorean, use ele pra viajar no tempo e corrigir seus erros passados.
 357. Ao destruir uma nave espacial gigante, você será teletransportado para uma nova galáxia.
 358. Ao ver um cachorro dê um pulo.
+359. Se sair de casa, dance 7 vezes.
