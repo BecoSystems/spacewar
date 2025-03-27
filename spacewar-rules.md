@@ -350,4 +350,14 @@
 348. Caso viaje para Malaga, nao peca uma ambulancia as cinco.
 349. Caso veja boi tungao, fuja para as colinas.
 350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
-351. Beba água 100 vezes no dia.
+351. Se um passáro cantar, pule com um pé só
+352. Se for entrar na casa, tire o calçado.
+353. Se você tiver fome, compre um Doritos no Assai.
+354. Se ver um gato tera que assistir todas as temporadas de the vampire diares
+355. Se voce ver uma Lhama no Fortnite, abra-a
+356. Se encontrar um DeLorean, use ele pra viajar no tempo e corrigir seus erros passados.
+357. Ao destruir uma nave espacial gigante, você será teletransportado para uma nova galáxia.
+358. Ao ver um cachorro dê um pulo.
+359. Se sair de casa, dance 7 vezes.
+360. Se você ver a sombra de um pato, pegue um chapéu e coloque na lua.
+361. Se souber mais sobre resenha do arrocha 2.0 do que matemática, ganhe o oscar de melhor filme estrangeiro.
