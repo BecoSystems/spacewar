@@ -365,3 +365,4 @@
 363. se sujar, não limpe.
 364. Se ver um gato laranja use-o como granada imediatamente.
 365. As quartas, use rosa.
+366. se mestre dos magos falhar! de gamemod0
