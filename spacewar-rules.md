@@ -362,3 +362,4 @@
 360. Se você ver a sombra de um pato, pegue um chapéu e coloque na lua.
 361. Se souber mais sobre resenha do arrocha 2.0 do que matemática, ganhe o oscar de melhor filme estrangeiro.
 362. Se avistar o toby, terá que recolher o coco dele.
+363. se sujar, não limpe.
