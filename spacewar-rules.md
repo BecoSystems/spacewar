@@ -364,3 +364,4 @@
 362. Se avistar o toby, terá que recolher o coco dele.
 363. se sujar, não limpe.
 364. Se ver um gato laranja use-o como granada imediatamente.
+365. As quartas, use rosa.
