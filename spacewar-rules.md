@@ -374,3 +374,4 @@
 371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
 372. se você ver um monstro,faça dele seu aliado
 376. se você cair, levante o mais rápido possível.
+374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
