@@ -368,3 +368,4 @@
 366. se mestre dos magos falhar! de gamemod0
 367. Ao coçar a cabeça fazer 3 flexões.
 368. Se chover, o Ichigo começa a chora
+369. Se chorar, enxugar o rosto.
