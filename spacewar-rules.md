@@ -373,3 +373,4 @@
 370. Se você olhar para a folha você não verá a floresta.
 371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
 372. se você ver um monstro,faça dele seu aliado
+376. se você cair, levante o mais rápido possível.
