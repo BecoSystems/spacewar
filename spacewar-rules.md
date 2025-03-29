@@ -369,3 +369,4 @@
 367. Ao coçar a cabeça fazer 3 flexões.
 368. Se chover, o Ichigo começa a chora
 369. Se chorar, enxugar o rosto.
+370. Se você olhar para a folha você não verá a floresta.
