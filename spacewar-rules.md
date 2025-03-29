@@ -373,3 +373,4 @@
 370. Se você olhar para a folha você não verá a floresta.
 371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
 372. se você ver um monstro,faça dele seu aliado
+373. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa
