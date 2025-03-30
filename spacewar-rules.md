@@ -377,3 +377,4 @@
 374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
 375. se chegar perto da morte voce ativa o system para um novo despertar.
 376. o rei sentira medo se netero voltar.
+377. Jogue fortnite e ganhe a partida.
