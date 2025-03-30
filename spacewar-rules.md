@@ -375,3 +375,4 @@
 372. se você ver um monstro,faça dele seu aliado
 376. se você cair, levante o mais rápido possível.
 374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
+375. se chegar perto da morte voce ativa o system para um novo despertar.
