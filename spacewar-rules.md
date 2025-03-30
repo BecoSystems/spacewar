@@ -350,6 +350,7 @@
 348. Caso viaje para Malaga, nao peca uma ambulancia as cinco.
 349. Caso veja boi tungao, fuja para as colinas.
 350. Se Passar perto da Ursa Maior tomar cuidado com o Meteoro Cromado
+
 351. Se um passáro cantar, pule com um pé só
 352. Se for entrar na casa, tire o calçado.
 353. Se você tiver fome, compre um Doritos no Assai.
@@ -366,4 +367,13 @@
 364. Se ver um gato laranja use-o como granada imediatamente.
 365. As quartas, use rosa.
 366. se mestre dos magos falhar! de gamemod0
-367. Jogue fortnite e ganhe a partida
+367. Ao coçar a cabeça fazer 3 flexões.
+368. Se chover, o Ichigo começa a chora
+369. Se chorar, enxugar o rosto.
+370. Se você olhar para a folha você não verá a floresta.
+371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
+372. se você ver um monstro,faça dele seu aliado
+376. se você cair, levante o mais rápido possível.
+374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
+375. Jogue fortnite e ganhe a partida
+
