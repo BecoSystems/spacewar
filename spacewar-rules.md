@@ -378,3 +378,5 @@
 375. se chegar perto da morte voce ativa o system para um novo despertar.
 376. o rei sentira medo se netero voltar.
 377. Jogue fortnite e ganhe a partida.
+378. Se encontrar um oompa loompa,revindique seu ticket dourado.
+
