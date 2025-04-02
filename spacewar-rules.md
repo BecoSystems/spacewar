@@ -379,3 +379,4 @@
 376. o rei sentira medo se netero voltar.
 377. Jogue fortnite e ganhe a partida.
 378. se tiver perto de morrer, rebole lentinho pros crias.
+379. Se estiver entediado, escute arctic monkeys.
