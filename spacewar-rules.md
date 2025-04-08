@@ -371,7 +371,7 @@
 368. Se chover, o Ichigo começa a chora
 369. Se chorar, enxugar o rosto.
 370. Se você olhar para a folha você não verá a floresta.
-371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
+71. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
 372. se você ver um monstro,faça dele seu aliado
 376. se você cair, levante o mais rápido possível.
 374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
@@ -380,3 +380,4 @@
 377. Jogue fortnite e ganhe a partida.
 378. se tiver perto de morrer, rebole lentinho pros crias.
 379. Se estiver entediado, escute arctic monkeys.
+380. se pensar em desistir, coma um docinho.
