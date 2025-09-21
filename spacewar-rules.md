@@ -383,3 +383,4 @@
 380. se pensar em desistir, coma um docinho.
 381. se a muralha cair, devera decidir se ira fugir ou buscar vinganca.
 382. se decidir buscar vingança, rola um dado.
+383. se o seu celular cair, faça um pix.
