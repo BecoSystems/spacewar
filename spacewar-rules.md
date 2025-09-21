@@ -382,3 +382,4 @@
 379. Se estiver entediado, escute arctic monkeys.
 380. se pensar em desistir, coma um docinho.
 381. se a muralha cair, devera decidir se ira fugir ou buscar vinganca.
+382. se decidir buscar vingança, rola um dado.
