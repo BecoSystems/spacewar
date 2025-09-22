@@ -371,12 +371,18 @@
 368. Se chover, o Ichigo começa a chora
 369. Se chorar, enxugar o rosto.
 370. Se você olhar para a folha você não verá a floresta.
-371. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
+71. se você ver obstáculos os evite, e colete intens para ir melhorando sua atividade
 372. se você ver um monstro,faça dele seu aliado
 376. se você cair, levante o mais rápido possível.
 374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
 375. se chegar perto da morte voce ativa o system para um novo despertar.
 376. o rei sentira medo se netero voltar.
 377. Jogue fortnite e ganhe a partida.
-378. Se encontrar um oompa loompa,revindique seu ticket dourado.
-
+378. se tiver perto de morrer, rebole lentinho pros crias.
+379. Se estiver entediado, escute arctic monkeys.
+380. se pensar em desistir, coma um docinho.
+381. se a muralha cair, devera decidir se ira fugir ou buscar vinganca.
+382. se decidir buscar vingança, rola um dado.
+383. se o seu celular cair, faça um pix.
+384. Se adquirir dinheiro compre silksong.
+385. Se encontrar um oompa loompa,revindique seu ticket dourado.
