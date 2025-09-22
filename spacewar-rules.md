@@ -385,3 +385,4 @@
 382. se decidir buscar vingança, rola um dado.
 383. se o seu celular cair, faça um pix.
 384. Se adquirir dinheiro compre silksong.
+385. Se encontrar um oompa loompa,revindique seu ticket dourado.
