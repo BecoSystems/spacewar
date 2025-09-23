@@ -133,6 +133,7 @@
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
+01 | Julio Cezar Rosa Gomes Barroso                             | @Julio-Barroso            |
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
 136. Snipers em Marte são permitidos.
@@ -386,3 +387,4 @@
 384. Se adquirir dinheiro compre silksong.
 385. Se encontrar um oompa loompa,revindique seu ticket dourado.
 386. Se estiver no garrafão, mete a dunk na cabeça do neuba.
+387. Todos os caminhos levam a Roma.
