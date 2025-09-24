@@ -389,3 +389,4 @@
 386. Se estiver no garrafão, mete a dunk na cabeça do neuba.
 387. Todos os caminhos levam a Roma.
 388. Não caia nas armadilhas deles, eles mentem.
+389. Se o dragão cuspir, vire de ladinho.
