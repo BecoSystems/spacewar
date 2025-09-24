@@ -391,3 +391,4 @@
 388. Não caia nas armadilhas deles, eles mentem.
 389. Se o dragão cuspir, vire de ladinho.
 390. Se esquecer a garrafa ligue pra victor.
+391. Se tiver tempo, veja the batman 2 em 2027.
