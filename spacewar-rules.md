@@ -388,4 +388,6 @@
 385. Se encontrar um oompa loompa,revindique seu ticket dourado.
 386. Se estiver no garrafão, mete a dunk na cabeça do neuba.
 387. Todos os caminhos levam a Roma.
-388. Se um alienígena oferecer sorvete de lava, aceite e ganhe +50 de XP em acrobacias espaciais
+388. Não caia nas armadilhas deles, eles mentem.
+389. Se o dragão cuspir, vire de ladinho.
+390. Se um alienígena oferecer sorvete de lava, aceite e ganhe +50 de XP em acrobacias espaciais
