@@ -388,3 +388,4 @@
 385. Se encontrar um oompa loompa,revindique seu ticket dourado.
 386. Se estiver no garrafão, mete a dunk na cabeça do neuba.
 387. Todos os caminhos levam a Roma.
+388. Não caia nas armadilhas deles, eles mentem.
