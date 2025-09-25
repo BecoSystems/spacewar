@@ -393,3 +393,4 @@
 390. Se esquecer a garrafa ligue pra victor.
 391. Se tiver tempo, veja the batman 2 em 2027.
 392. Se tiver com fome coma no Tio.
+393. Você só passa pela porta se entregar uma paçoca
