@@ -395,4 +395,4 @@
 392. Se tiver com fome coma no Tio.
 393. Você só passa pela porta se entregar uma paçoca
 394. Peixe de chapeu azul resolveu cantar.
-
+395. Se encontrar um macaco, pule no pula-pula.
