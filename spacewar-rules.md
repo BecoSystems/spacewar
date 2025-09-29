@@ -397,3 +397,5 @@
 394. Peixe de chapeu azul resolveu cantar.
 395. Se encontrar um macaco, pule no pula-pula.
 396. Se platinar silksong ganha um item para um final secreto.
+397. Se gritarem gracious professionalism, gritem HEY.
+
