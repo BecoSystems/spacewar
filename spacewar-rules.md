@@ -399,3 +399,4 @@
 396. Se platinar silksong ganha um item para um final secreto.
 397. Se gritarem gracious professionalism, gritem HEY.
 398. Se avistar um tucano vire a direita.
+399. se estiver jogando valorant e estiver perdendo, desinstale o jogo e esqueça ele.
