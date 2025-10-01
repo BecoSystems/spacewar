@@ -381,3 +381,4 @@
 378. se tiver perto de morrer, rebole lentinho pros crias.
 379. Se estiver entediado, escute arctic monkeys.
 380. se pensar em desistir, coma um docinho.
+381. se estiver jogando valorant e estiver perdendo, desinstale o jogo e esqueça ele.
