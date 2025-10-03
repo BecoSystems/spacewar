@@ -401,3 +401,4 @@
 398. Se avistar um tucano vire a direita.
 399. se estiver jogando valorant e estiver perdendo, desinstale o jogo e esqueça ele.
 400. Se voce ler algo saia da realidade.
+401. Se cair, coma uma tapioca de frango com queijo coalho.
