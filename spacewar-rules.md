@@ -65,7 +65,7 @@
 63. O vencedor da partida ganhara um relâmpago da força para o próximo jogo.
 64. akernaak grita birrrrl.
 65. Destrua 5 naves em menos de um minuto para ganhar o título de "Spree-Killer".
-66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras. 
+66. Caso o natal caia em uma sexta-feira 13, Jason irá atrás de vc montado em golfinhos púrpuras.
 67. Se Sasuke Uchiha aparecer, derrote-o com um Rasengan.
 68. A nave que acertar o Titio Avô vence a batalha.
 69. Quando a câmara secreta for aberta, todos os mestiços devem se esconder.
@@ -92,7 +92,7 @@
 90. Ao sobrevoar um cinturao de saturno, use o capacete especial 100RR.
 91. Caso o Senhor Madruga seja visto, toda a frota estelar estará devendo 1000 Dracmas ao Senhor Barriga.
 92. Derrote um inimigo e receba um Diamante Negro que lhe fornecerá uma Super Força, isto lhe tornará invencível.
-93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte. 
+93. Numa luta contra uma nave duas vezes maior, seu ataque será duas vezes mais forte.
 94. Os pilotos só devem sair de suas naves após finalizar todas as batalhas.
 95. Quem conseguir a armadura do Homem de Ferro, fica isento de qualquer ataque por 10 segundos.
 96. Carregar duendes no compartimento de cargas aumenta sua chance de encontrar planetas com minérios valiosos.
@@ -110,7 +110,7 @@
 108. Travis test 8 -- drbeco forked
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
 110. Se a nave não decolcar, vá a pé
-111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
+111. Caso o Capitão América aparecer, o jogador ganhará pontos.
 112. Se comecar a chuver meteoros, abra o guarda chuva.
 113. Se o zumbi morder voce, tome a poção de cura.
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
@@ -171,7 +171,7 @@
 168. Você acabou de pegar um atalho para passar mais rapidamente de fase,entrando no inexplorado mundo do horizonte de eventos aonde tudo - ou nada - pode acontecer. Muito cuidado para não viajar para a dimensão das memórias inacessíveis.
 169. A vida nao importa o quantas vezes voce cai, mas sim quantas vezes voce apanha e levanta para a luta.
 170. Para sobreviver procure tochas ao seu redor.
-171. Se encontrar um demonio, chame os irmaos Winchester. 
+171. Se encontrar um demonio, chame os irmaos Winchester.
 172. Termine o Percurso de Kessel em menos de 12 Parsecs e ganhe pontos de maestria.
 173. Para voar, se jogue.
 174. Caso ganhe uma partida contra um Vulcano, seu escudo ganha +150 de armadura.
@@ -402,3 +402,4 @@
 399. se estiver jogando valorant e estiver perdendo, desinstale o jogo e esqueça ele.
 400. Se voce ler algo saia da realidade.
 401. Se cair, coma uma tapioca de frango com queijo coalho.
+402.Se encontrar uma escada rolante parada, suba correndo de costas para desbloquear o modo secreto da vida.
