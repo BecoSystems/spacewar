@@ -404,3 +404,4 @@
 401. Se cair, coma uma tapioca de frango com queijo coalho.
 402.Se encontrar uma escada rolante parada, suba correndo de costas para desbloquear o modo secreto da vida.
 403. Se pensar em desistir, desista do seu pensamento.
+404. Se voce leu, o Sport perdeu
