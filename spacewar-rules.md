@@ -406,3 +406,4 @@
 403. Se pensar em desistir, desista do seu pensamento.
 404. Se voce leu, o Sport perdeu
 405. Se voce estiver cansado compre um brownie de doce de leite do bebe.
+406. Se jogar megacavaleiro na ponte, voce automaticamente perdera.
