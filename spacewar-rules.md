@@ -407,3 +407,4 @@
 404. Se voce leu, o Sport perdeu
 405. Se voce estiver cansado compre um brownie de doce de leite do bebe.
 406. Se precisar de energia, tome um guarana do amazonas.
+407. Se uma Bang vier em sua direção, vire-se.
