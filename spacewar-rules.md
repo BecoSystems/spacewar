@@ -402,7 +402,7 @@
 399. se estiver jogando valorant e estiver perdendo, desinstale o jogo e esqueça ele.
 400. Se voce ler algo saia da realidade.
 401. Se cair, coma uma tapioca de frango com queijo coalho.
-402.Se encontrar uma escada rolante parada, suba correndo de costas para desbloquear o modo secreto da vida.
+402. Se encontrar uma escada rolante parada, suba correndo de costas para desbloquear o modo secreto da vida.
 403. Se pensar em desistir, desista do seu pensamento.
 404. Se voce leu, o Sport perdeu
 405. Se voce estiver cansado compre um brownie de doce de leite do bebe.
