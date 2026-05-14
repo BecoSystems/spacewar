@@ -409,3 +409,4 @@
 406. Se precisar de energia, tome um guarana do amazonas.
 407. Se uma Bang vier em sua direção, vire-se.
 408. Se um alienígena oferecer sorvete de lava, aceite e ganhe +50 de XP em acrobacias espaciais.
+409. Se estiver perdido, escute Enhypen para achar o caminho.
