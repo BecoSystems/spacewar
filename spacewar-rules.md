@@ -418,4 +418,3 @@
 415. Se for sair para balada, escute Madonna.
 416. Se voce se perder, escute enhypen pra achar o caminho.
 417. Se quiser fazer amigos jogue minecraft.
-418. Se estiver com vontade de dirigir, jogue Forza Horizon 6.
