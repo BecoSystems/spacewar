@@ -430,3 +430,4 @@
 427. Se for goleiro da poli jr não tome gol.
 428. Se leu, use um for loop para achar um unico usuario em um banco de dados com mais de 20 bilhoes de registros
 429. Se voce leu, está vivo.
+430. Se nao quiser apanhar na rua enfrantando um boss, lute muay thai.
