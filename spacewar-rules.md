@@ -429,3 +429,4 @@
 426. Se sofrer efeitos colaterais indesejados ao usar death sticks, comunique aos distribuidores geonosianos instalados em Serra Talhada, Araripina, e Xique-Xique.
 427. Se for goleiro da poli jr não tome gol.
 428. Se leu, use um for loop para achar um unico usuario em um banco de dados com mais de 20 bilhoes de registros
+429. Se voce leu, está vivo.
