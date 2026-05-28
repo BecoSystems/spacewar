@@ -433,4 +433,4 @@
 430. Se leu, use um for loop para achar um unico usuario em um banco de dados com mais de 20 bilhoes de registros
 431. Se voce leu, está vivo.
 432. Se nao quiser apanhar na rua enfrantando um boss, lute muay thai.
-
+433. se quiser se formar,se mate.
