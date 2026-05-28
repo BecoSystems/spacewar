@@ -427,3 +427,10 @@
 424. Se invocar Dr. Beco, ganha o jogo.
 425. Se for pra Carpina vá comer no Embrasa e peça um refrigerante.
 426. Se tiver engarrafamento na Agamenon, volte imediatamente para casa. 
+427. Se for pra Carpina va comer no Embrasa e peça um refrigerante.
+428. Se sofrer efeitos colaterais indesejados ao usar death sticks, comunique aos distribuidores geonosianos instalados em Serra Talhada, Araripina, e Xique-Xique.
+429. Se for goleiro da poli jr não tome gol.
+430. Se leu, use um for loop para achar um unico usuario em um banco de dados com mais de 20 bilhoes de registros
+431. Se voce leu, está vivo.
+432. Se nao quiser apanhar na rua enfrantando um boss, lute muay thai.
+
