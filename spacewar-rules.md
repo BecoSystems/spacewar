@@ -8,6 +8,7 @@
 6. Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 cabeças de Zorgs
+B
 9. Não é permitido o uso de criptografias de menos que 128 bits
 10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
@@ -102,6 +103,7 @@
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
 101. Travis test
 102. Travis test 2
+A
 103. Travis test 3
 104. Travis test 4 -- drbeco forked
 105. Travis test 5 -- drbeco forked
@@ -133,7 +135,6 @@
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
 133. Se a palavra Whyegdhhwclnvnpvei for falada de tras para frente, o jogo termina.
-01 | Julio Cezar Rosa Gomes Barroso                             | @Julio-Barroso            |
 134. Se seus amigos mafiarem com você , escolha o número deles da chamada
 135. Se o Galactus destruir a sua nave, volte para a dimensão gama.
 136. Snipers em Marte são permitidos.
@@ -235,6 +236,7 @@
 232. Chupar chupeta gelada e congelante.
 233. Execute duas vezes a regra seguinte.
 234. Dê duas cambalhotas para aumetar a resistência.
+B
 235. Assim que cair no mar, dançar ao som de The Sound do The 1975.
 236. Quando avistar um smurf, grite "Shazaam".
 237. Proibido jogar com o bulls de 96 no nba 2k23 quando está valendo uma coca.
@@ -249,6 +251,7 @@
 246. Lave os pratos da nave de guerra intergalactica ao som de Vicios e Virtudes do Charlie Brown Jr.
 247. Tudo fica melhor com um pote de mel e Legião Urbana.
 248. Se a França ganhar o mundial, as copas do mundo serão canceladas.
+B
 249. Jogue xadrez ao som de Conde So brega.
 250. Não é permitido cometer suicídio.
 251. Caso voce perca um apicultor declare BAZINGA!
@@ -286,6 +289,7 @@
 283. Caso um portal do tempo seja utilizado invoque um esquilo.
 284. Durma 5 horas por dia, 5 dias por semana, durante 1 mês. E você ganha a skin de zumbi.
 285. Apoie um lápis na casa do cachorro.
+B
 286. Olhe ao redor e tenha cuidado com o sapo rei.
 287. Se o X lhe chamar pra destruir a JAA, não aceite.
 288. Não conte seus segredos para Imu Sama ou ele ira fazer com você o mesmo que fez com o Rei Kobra.
@@ -300,6 +304,7 @@
 297. Compre uma beta no mercado das mangueiras.
 298. Se voce ver uma roupa, faca um desfile de moda.
 299. Seja um torcedor do maior do nordeste, vulgo meu leao.
+B
 300. Compre o gta6 e jogue a madruga toda.
 301. Apartir dessa regra faça todas as regras de cabeça pra baixo.
 302. O cachorro miou igual a um passarinho.
@@ -346,6 +351,7 @@
 343. Se o chão de Plutão virar lava, suba em Saturno.
 344. Zere o akernaak uma vez na vida.
 345. Se passar por Triunfo dê 3 pulinhos.
+B
 346. Nao pule no sol, porque e quente.
 347. Se escutar o canto das sereias vai ter que cantar com elas todas as musicas do filme Mamma Mia.
 348. Caso viaje para Malaga, nao peca uma ambulancia as cinco.
@@ -377,6 +383,7 @@
 374. se tentar atirar sem mirar vai aparecer a seguinte mensagem: slk não compensa.
 375. se chegar perto da morte voce ativa o system para um novo despertar.
 376. o rei sentira medo se netero voltar.
+B
 377. Jogue fortnite e ganhe a partida.
 378. se tiver perto de morrer, rebole lentinho pros crias.
 379. Se estiver entediado, escute arctic monkeys.
@@ -434,3 +441,4 @@
 431. Se voce leu, está vivo.
 432. Se nao quiser apanhar na rua enfrantando um boss, lute muay thai.
 433. se quiser se formar,se mate.
+434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
