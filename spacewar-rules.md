@@ -442,3 +442,4 @@ B
 432. Se nao quiser apanhar na rua enfrantando um boss, lute muay thai.
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
+435. se for dirigir, beba alcool.
