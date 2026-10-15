@@ -443,3 +443,6 @@ B
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
+
+
+438. Se olhar para uma janela, se jogue.
