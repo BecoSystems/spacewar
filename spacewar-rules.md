@@ -443,4 +443,6 @@ B
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
-436. plante uma planta e coma cuscuz.
+
+
+438. se plantar uma planta e coma um cuscuz.
