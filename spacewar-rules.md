@@ -1,11 +1,11 @@
 # Regras da Guerra nas Estrelas
 
-1. Seu objetivo é destruir o adversário.
-2. Não é permitido phasers com mais de 15 Octawatts de potência.
-3. Quem acionar a velocidade de dobra intergaláctica durante a batalha terá 2 Zorgs metralhados.
-4. Não é permitido atirar com o escudo ativado.
+1. Seu objetivo e destruir o adversario.
+2. Nao e permitido phasers com mais de 15 Octawatts de potencia.
+3. Quem acionar a velocidade de dobra intergalactica durante a batalha tera 2 Zorgs metralhados.
+4. Nao e permitido atirar com o escudo ativado.
 5. Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
-6. Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
+6. Se piscar a LBP tres vezes, é fim de batalha, com vitória para o adversário.
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 cabeças de Zorgs
 B
@@ -443,3 +443,4 @@ B
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
+436. plante uma planta e coma cuscuz.
