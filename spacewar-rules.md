@@ -3,12 +3,11 @@
 1. Seu objetivo é destruir o adversário.
 2. Não é permitido phasers com mais de 15 Octawatts de potência.
 3. Quem acionar a velocidade de dobra intergaláctica durante a batalha terá 2 Zorgs metralhados.
-4. Não é permitido atirar com o escudo ativado.
+4. Não é permitido atirar com o e`scudo ativado.
 5. Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 6. Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 7. Antes de iniciar a batalha, cumprimente o oponente usando o R2D2 para transmitir 3 beeps.
 8. O ataque com ondas giratórias vale 4 cabeças de Zorgs
-B
 9. Não é permitido o uso de criptografias de menos que 128 bits
 10. Reconhecimento por drones é permitido antes da batalha (espionagem)
 11. Não é permitido manter o escudo ativo por mais de 10 segundos.
@@ -443,3 +442,4 @@ B
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
+436. se o golden ratio for conquistado,adquira o spin.
