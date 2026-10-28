@@ -444,4 +444,5 @@ B
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
 436. se for pro carnaval, tome caipirinha.
-437. caso enconte uma formiga, pegue o sabre de luz. 
+437. caso enconte uma formiga, pegue o sabre de luz
+438. se for pra aula e tiver palestra, volte pra casa.
