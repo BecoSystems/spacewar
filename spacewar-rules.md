@@ -446,3 +446,4 @@ B
 436. se for pro carnaval, tome caipirinha.
 437. caso enconte uma formiga, pegue o sabre de luz.
 438. se plantar uma planta coma um cuscuz.
+439. Se sentir fome, compre uma tapioca de frango em frente a POLI
