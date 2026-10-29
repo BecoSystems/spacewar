@@ -448,3 +448,5 @@ B
 438. se plantar uma planta coma um cuscuz.
 439. Se sentir fome, compre uma tapioca de frango em frente a POLI
 440. se estiver numa encruzilhada, nao vire a esquerda.
+441. Em caso de estresse, fume um cigarro.
+442. se nao for dirigir, beba alcool.
