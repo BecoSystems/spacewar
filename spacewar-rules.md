@@ -452,3 +452,4 @@ B
 442. se nao for dirigir, beba alcool.
 443. se estiver triste, coma um pastel.
 444. Se nao quiser ser assaltado, saia na rua a noite.
+445. Se abrir a porta, feche ela.
