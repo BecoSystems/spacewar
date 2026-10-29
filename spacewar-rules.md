@@ -450,3 +450,8 @@ B
 440. se estiver numa encruzilhada, nao vire a esquerda.
 441. Em caso de estresse, fume um cigarro.
 442. se nao for dirigir, beba alcool.
+443. se estiver triste, coma um pastel.
+444. Se nao quiser ser assaltado, saia na rua a noite.
+445. Se abrir a porta, feche ela.
+446. Se quiser ser assaltado, saia de manha para a rua.
+447. Se jogar pedra, papel e tesoura, escolha sempre pedra.
