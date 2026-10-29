@@ -443,9 +443,9 @@ B
 433. se quiser se formar,se mate.
 434. se encontrar um penguin usando oculos escuros entregue uma coxinha imediatamente.
 435. se for dirigir, beba alcool.
-
-
-
-
-
-440. em caso de reprovação, vá beber.
+436. se for pro carnaval, tome caipirinha.
+437. caso enconte uma formiga, pegue o sabre de luz.
+438. se plantar uma planta coma um cuscuz.
+439. Se sentir fome, compre uma tapioca de frango em frente a POLI
+440. se estiver numa encruzilhada, nao vire a esquerda.
+441. em caso de estresse, fume um cigarro.
