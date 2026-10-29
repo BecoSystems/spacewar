@@ -450,3 +450,4 @@ B
 440. se estiver numa encruzilhada, nao vire a esquerda.
 441. Em caso de estresse, fume um cigarro.
 442. se nao for dirigir, beba alcool.
+443. se estiver triste, coma um pastel.
