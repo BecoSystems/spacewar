@@ -455,3 +455,4 @@ B
 445. Se abrir a porta, feche ela.
 446. Se quiser ser assaltado, saia de manha para a rua.
 447. Se jogar pedra, papel e tesoura, escolha sempre pedra.
+448. Se parar no sinal da agamenom compre uma pipoca salgada. 
