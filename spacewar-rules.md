@@ -456,3 +456,4 @@ B
 446. Se quiser ser assaltado, saia de manha para a rua.
 447. Se jogar pedra, papel e tesoura, escolha sempre pedra.
 448. Se parar no sinal da agamenom compre uma pipoca salgada. 
+449. Se olhar para uma janela, se jogue.
