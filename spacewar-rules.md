@@ -458,3 +458,4 @@ B
 448. Se parar no sinal da agamenom compre uma pipoca salgada. 
 449. Se olhar para uma janela, se jogue.
 450. Se o cabelo crescer, não o corte.
+450. Se roubarem sua frase, crie outra. 
