@@ -448,4 +448,14 @@ B
 438. se plantar uma planta coma um cuscuz.
 439. Se sentir fome, compre uma tapioca de frango em frente a POLI
 440. se estiver numa encruzilhada, nao vire a esquerda.
-441. em caso de estresse, fume um cigarro.
+441. Em caso de estresse, fume um cigarro.
+442. se nao for dirigir, beba alcool.
+443. se estiver triste, coma um pastel.
+444. Se nao quiser ser assaltado, saia na rua a noite.
+445. Se abrir a porta, feche ela.
+446. Se quiser ser assaltado, saia de manha para a rua.
+447. Se jogar pedra, papel e tesoura, escolha sempre pedra.
+448. Se parar no sinal da agamenom compre uma pipoca salgada. 
+449. Se olhar para uma janela, se jogue.
+450. Se o cabelo crescer, não o corte.
+450. Se roubarem sua frase, crie outra. 
