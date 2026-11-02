@@ -461,3 +461,4 @@ B
 451. Se roubarem sua frase, crie outra. 
 452. Se o nautico ganhar algo relevante, saia nas ruas.
 453. se for pra aula e tiver palestra, volte pra casa.
+454. se for instalar implantes em NigthCity, não exagere no cromo.
