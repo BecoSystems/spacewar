@@ -460,3 +460,8 @@ B
 450. Se o cabelo crescer, não o corte.
 451. Se roubarem sua frase, crie outra.
 452. Se o Golden Ratio for conquistado,adquira o Spin.
+451. Se roubarem sua frase, crie outra. 
+452. Se o nautico ganhar algo relevante, saia nas ruas.
+453. se for pra aula e tiver palestra, volte pra casa.
+454. se for instalar implantes em NiigthCity, não exagere no cromo.
+455. Se o Golden Ratio for conquistado,o Spin sera adquirido.
